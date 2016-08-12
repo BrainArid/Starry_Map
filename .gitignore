@@ -17,6 +17,20 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Image Files
+*.png
+*.bmp
+*.mpg
+
+# R project files
+*.Rproj
+
+#Documentation Subdirectories
+Documentation/
+
+# hidden files
+.*
+
 # =========================
 # Operating System Files
 # =========================
