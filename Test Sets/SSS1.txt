@@ -1,0 +1,17 @@
+S1			
+A	B	C	D
+			
+S2			
+A	B		
+C	D		
+			
+S3			
+A	B		
+C			
+D			
+			
+S4			
+A			
+B			
+C			
+D			

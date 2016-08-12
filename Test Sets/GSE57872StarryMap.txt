@@ -1,0 +1,77 @@
+1:oxidative phosphorylation	2:glycolysis	3:translational elongation	4:protein folding	5:response to DNA damage stimulus	6:anti-apoptosis	7:nervous system development	8:response to organic substance	9:nervous system development	10:glycolysis	11:regulation of Ras protein signal transduction	12:NONE	13:cellular component biogenesis	14:cellular amino acid metabolic process	15:nuclear division	16:translational elongation	17:anatomical structure development	18:antigen processing and presentation of peptide antigen	19:DNA replication	20:transport	21:response to inorganic substance
+AATF	AATF	ACIN1	AASDHPPT	AATF	AATF	ABCA1	AASDH	AATF	ABCA8	ABAT	ACADSB	ABHD4	AARSD1	ABHD4	AASS	AARSD1	AARSD1	AASDH	ACTR1A	AASDH
+ABHD2	ABCF3	C12orf29	ABCB6	ABCF3	ABHD4	ACAD8	ABAT	ABHD2	ACAT1	ABR	BCCIP	ALG11	AASS	ALG9	ABCD3	AASDHPPT	AASS	ABCC3	ETV6	ABAT
+ATP5E	ENO1	EEF1A1	CALR	C6orf62	B2M	AGT	BTG2	ACTB	ADM	ABCC9	APOL4	ADAMTSL3	ARHGEF26.AS1	AURKB	NDUFA4	ACTG1	CD74	CCNE2	ABCC9	MT1E
+ATP5I	FAM162A	GNB2L1	HSPA5	NFIB	CLU	AQP4	EGR1	CALM1	AKAP12	ATP9B	ASTN2	ATP7A	SPC25	BIRC5	RPL41	EMP1	HLA-B	CDK2	ATP9B	MT1M
+COX7C	GPI	NPM1	DNAJB11	PAFAH1B2	GFAP	ATP1B2	DNAJB1	ATP6AP2	ALDOA	CCDC122	CCL5	C12orf50	SMYD4	BUB1	RPS26	ANXA2	HLA-A	MLF1IP	CCDC122	CA12
+COX6B1	LDHA	RPL3	HYOU1	PPP1CB	F3	ELOVL2	FOS	MIF	C5orf62	CCDC170	CDHR4	C12orf55	SYNE2	CCNB2	NME1.NME2	GAP43	HLA-C	FEN1	MIPOL1	MT1X
+NDUFA3	PGK1	FAU	MIR3652	SAR1A	HEPN1	FABP7	FOSB	NGRN	ENO2	MIPOL1	CTSC	CCDC125	XKR9	CDC6	PHPT1	S100A10	IFI6	GMNN	SPDYE7P	MT2A
+NDUFA4	RPLP0	RPL7	PDIA6	SET	IFITM3	GPM6A	HSPA1B	PTTG1IP	EPAS1	FAM221A	DHRS4L2	CCDC141		CDK1	RPL36			RFC4	TBC1D8B	MT3
+ROMO1	SEC61G	RPL8	PPIB	TLK1	LGALS3BP	HOPX		TBCB	HILPDA	POLR2J4	FBXL18	CCDC150		CDK2	RPS19				TMEM45A	
+RPL41	TMSB10	RPL9P9		TMEM33	PON2	PTPRZ1		TMEM66	IGFBP5	SPDYE7P	FGF5	CFLAR		CENPF	UBA52				ADAMTSL3	
+RPS26	VDAC1	RPL10		TSPYL1	PTN	S100B		TUBB2A	LGALS3	TBC1D8B	GBP4	FAM197Y6		DHFR					ATP7A	
+		RPL12				X7.Sep			NRN1	TMEM45A	GPR98	KIAA1328		DSN1					C12orf50	
+		RPL15				SLC1A3			TPI1		GUSBP3	LINC00504		DTL					C12orf55	
+		RPL17							VEGFA		HHLA1	MIR143HG		FANCI					CCDC150	
+		RPL19									INMT	MORC4		HMGB2					CFLAR	
+		RPL21									L2HGDH	NME7		KIF4A					FAM197Y6	
+		RPL23									LINC00485	OPHN1		KIF15					KIAA1328	
+		RPL23A									MAB21L3	PEX13		MAD2L1					LINC00504	
+		RPL24									NCKAP5	RASEF		MLF1IP					MIR143HG	
+		RPL26									ODF2L	SBF2		NCAPG2					MORC4	
+		RPL27									ORC4	SCN11A		NUSAP1					NME7	
+		RPL27A									ORC6	SERPINB9		PBK					OPHN1	
+		RPL28									PCSK5	SHISA9		RRM2					PEX13	
+		RPL29									PGM5P2	TADA2B		TOP2A					RASEF	
+		RPL30									PRKAR2A.AS1	TMEM212		TPX2					SBF2	
+		RPL31									PRR11	ZNF850		UBE2T					SCN11A	
+		RPL32									RAB11FIP1								SHISA9	
+		RPL34									RASGRP3								TADA2B	
+		RPL35									REXO1L1								TMEM212	
+		RPL35A									RHOT1P3								ZNF850	
+		RPL36									SCAI								APOL4	
+		RPL37A									SLC9A4								ASTN2	
+		RPLP1									STX17								CCL5	
+		RPLP2									SVEP1								CDHR4	
+		RPS5									TSIX								CTSC	
+		RPS6									TSSC2								DHRS4L2	
+		RPS14									UGT8								FBXL18	
+		RPS15									XPNPEP3								FGF5	
+		RPS15A									ZBTB8A								GBP4	
+		RPS16									ZKSCAN3								GUSBP3	
+		RPS18									ZNF471								HHLA1	
+		RPS19									ZNRF2P1								INMT	
+		RPS21																	L2HGDH	
+		RPS25																	LINC00485	
+		RPS27																	MAB21L3	
+		RPS27A																	NCKAP5	
+		RPS28																	ODF2L	
+		SNORA66																	ORC4	
+		SNORD73A																	ORC6	
+																			PCSK5	
+																			PGM5P2	
+																			PRKAR2A.AS1	
+																			PRR11	
+																			RAB11FIP1	
+																			RASGRP3	
+																			REXO1L1	
+																			RHOT1P3	
+																			SLC9A4	
+																			STX17	
+																			SVEP1	
+																			TSIX	
+																			TSSC2	
+																			UGT8	
+																			XPNPEP3	
+																			ZBTB8A	
+																			ZKSCAN3	
+																			ZNF471	
+																			ZNRF2P1	
+																			ARHGEF26.AS1	
+																			SPC25	
+																			XKR9	
+																			CCDC30	
+																			FAS	
+																			FDPSP2	
+																			SH3TC2	
+																			TTN	

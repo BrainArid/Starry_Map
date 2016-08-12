@@ -1,0 +1,53 @@
+1:cell cycle	2:RNA splicing	3:RNA metabolic process	4:translational elongation	5:NONE	6:generation of precursor metabolites and energy	7:antigen processing and presentation	8:cellular amino acid metabolic process	9:cellular amino acid metabolic process	10:NONE	11:NONE	12:cellular amino acid metabolic process	13:synaptic transmission	14:cellular component organization	15:cellular amino acid metabolic process	16:regulation of cell differentiation	17:nitrogen compound metabolic process	18:response to external stimulus	19:NONE	20:cellular carbohydrate metabolic process	21:establishment of localization in cell	22:extracellular matrix organization	23:immune response	24:immune response	25:immune system process	26:response to external stimulus	27:macromolecule metabolic process	28:RNA metabolic process	29:cell fate commitment	30:NONE	31:regulation of developmental process	32:regulation of multicellular organismal process	33:NONE	34:response to external stimulus	35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	36:carboxylic acid metabolic process	37:immune response	38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	39:anatomical structure morphogenesis	40:response to biotic stimulus	41:regulation of microtubule depolymerization	42:G-protein coupled receptor protein signaling pathway	43:cell adhesion	44:vesicle-mediated transport	45:NONE	46:collagen fibril organization	47:cellular component organization	48:cell motion
+ABHD8	AATF	AATF	ABCE1	AASS	AASDHPPT	AASS	AARSD1	AARSD1	ABCA3	ABAT	AARSD1	ABAT	AARSD1	AARSD1	AASDHPPT	ABAT	ABCA1	AASDHPPT	AASDHPPT	ABCA3	ABHD8	ABHD2	ACBD6	ABAT	ABCF3	AASDHPPT	AARSD1	AATF	AASS	AARSD1	AARSD1	AARSD1	ACADM	AARSD1	AARSD1	ACAP3	ABCA1	ABCB7	AATF	AASS	AARSD1	ABCB6	AASDHPPT	AARSD1	ABHD10	AASS	AARSD1
+APOC1	ABCF1	ABCE1	ADD3	ABCB7	ABCA1	ABCD3	AASS	AASS	ACAD11	ABHD11	AASS	ABHD12	AASS	AASS	ABCA1	ABCG1	ABHD4	ABCA3	ABCA1	ACAD9	APOD	ANKRD17	C19orf70	ABHD10	AGGF1	ABCA1	AASS	ABCF1	ABCB7	ABCA1	AASS	AATF	BCS1L	ABCA1	AASS	BRIX1	ABTB1	ACOX1	ABCE1	ABCF2	ABCA1	ACP2	ABCA1	AATF	AK4	ABCD3	AASS
+CCNB1	CCT3	AP1M1	GAS5	RPL13AP5	ATP5D	B2M	CDC42BPB	ALDH6A1	ACBD5	GPM6B	DDX50	CAPN3	CABIN1	ATXN10	BMPR2	ARID1A	KIAA1949	GLUD1	ALDOC	CKAP4	BGN	ADORA3	ALOX5	ARHGDIB	ADPGK	CCDC124	APEX1	BCAN	ATP1A3	ANGPT2	GNAO1	C1orf85	ACSL1	HLA-DMA	FBXW11	ALOX5	GIMAP4	CD248	ANXA2	CLASP2	CSF2RA	COL6A1	CALD1	ASCC1	CNN2	CD248	CAPZA1
+CDC20	DHX9	C19orf29	RPL10	RPL18	GADD45GIP1	HLA-B	CHD8	ARHGAP5	ARHGAP12	GPRC5B	MRPS16	DBNDD2	CRKL	NHP2L1	CAMSAP1L1	CREBBP	MAP2K3	PEA15	IL17D	FNDC3B	CD248	APBB1IP	ARHGAP4	CD4	ARPC1B	CLPP	PARP2	NKAIN4	ATP6V1G2	COL4A1	RUNDC3A	CTSA	ALOX5	CD74	HINT3	ARHGAP4	HLA-DMA	CD93	CALR	GATS	APBB1IP	COL1A1	CALU	ZMYND11	COL1A1	CD93	DTX3
+CDK1	HNRNPA3	CHERP	RPL17	RPS15	NDUFA11	HLA-A	HECTD1	EXD2	CBARA1	C5orf4	5-Mar	MBP	DGCR2	L3MBTL2	NCKAP1	CNOT1	CLIC1	RFTN2	NDRG2	FAM114A1	CD93	APOC2	C1QA	HCLS1	CD14	ARMC6	PRMT5	LMF1	LINGO1	COL4A2	SCAMP5	GRN	C1orf38	HLA-DOA	GMFB	C2	HLA-DMB	HSPG2	CHPF2	GNAO1	C3AR1	ITGA5	FLNA	ADD3	COL1A2	HSPG2	ARPC2
+CDK2	HNRNPR	FZR1	RPL24	RPS16	NDUFA13	HLA-C	PPP2R5E	KIAA1737	CLASP2	ITPK1	SAR1A	C7orf41	HIRA	PPP6R2	NDUFS1	HCFC1	METRNL	SYT11	GLT25D1	FURIN	COL18A1	C3AR1	C1QB	C1orf162	ALOX5AP	DDX49	RBM23	OLIG1	PDXP	LAMA4	SHC1	HEXA	CD300A	HLA-DPB1	LANCL1	CD300A	CD74	LAMC1	HSPA5	MAPT	TREM2	LAMB1	LMAN1	CAMK2G	COL3A1	LAMC1	NTAN1
+CKS1B	HNRNPU	KHSRP	RPL27	RPS19	NDUFA7	PSMB8	YLPM1	MUDENG	CNTN1	KCNJ10	VPS26A	PLP1	HPS4	RANGAP1	USP34	PHF12	PLAU	TIMP1	PMM2	P4HB	COL1A1	AIF1	C1QC	LCP2	CD163	CDC34	SUPT16H	OLIG2	3-Sep	MCAM	SYP	NEU1	CD68	HLA-DQA1	QKI	CD53	HLA-DOA	PDGFRB	MANF	NCAM1	GPR34	LOXL2	MRC2	PHYHIPL	CLIC1	CALD1	TPM3
+CTPS	ILF2	MED16	RPL31	RPS5	NDUFB7	PSMB9			CSTF2T	PAQR8		QDPR			ZFP91	SAP130	PLAUR	TMSB10	THRA	PDIA3	COL1A2	CD37	C1orf38	RHBDF2	CTSB	HDGFRP2		SCHIP1	SYNGR1				CTSC			ADAP2	HLA-DPB1	UACA	PDIA4	PHYHIPL		SERPINH1	PTPN12		COL6A1	FSTL1	
+DNMT1	RBMX	RAVER1	RPL34	RPS9		TAP1			DIP2B	PHLPP1		RAB40B				SNRNP200	SLC16A3			RBMS1	COL3A1	CORO1A	C2	STAT6	CTSL1			SOX8	WASF1				CTSS			CD68	HLA-DPA1	ANGPT2	PLOD3	8-Sep		COL6A2			COL5A1	PLOD1	
+FOXM1	SFPQ	WIZ	RPL37A						FAM190B	PLEKHB1		4-Sep				SRCAP	SOCS3			SEC24D	COL4A1	CSF1R	CD300A	TGFBR2	F13A1			TNK2					CTSZ			CTSS	HLA-DQB1	LAMA4	TUBA1C			FBLIM1			COL6A2		
+KPNA2			RPL39						KIAA1279	USP54		TF				UBAP2L	TAGLN			SEC31A	COL4A2	CYBB	CD53	TNFRSF1B	FPR1								FCER1G			FCER1G	HLA-DRA	MCAM				PLEKHB1			FBLIM1		
+LMNB1			RPL5						RAB18								THBS1			SRPR	COL5A1	EVI2B	ADAP2		HMOX1								FCGR2A			FCGR2A	HLA-DRB1	ENG				NRP1			FN1		
+LMNB2			RPL9						WAC											TMEM214	COL5A2	FCGR1A	CD68		IFI30								FERMT3			FERMT3		MYH9				RCN3			IKBIP		
+MAD2L1			RPS13						ZMYND11											TXNDC5	FN1	FYB	CTSC		RAC2								ITGB2			GPSM3		MYO1B				TPM4			ITGA5		
+MCM2			RPS15A																		HSPG2	HAVCR2	CTSS		RNF149								LAIR1			HCK		NOTCH3				VASP			LEPRE1		
+MCM3			RPS27																		IGFBP4	HLA-DMA	CTSZ		S100A8								LAPTM5			ITGB2		PLXND1							LUM		
+MCM4			RPS27A																		IKBIP	HLA-DMB	FCER1G		S100A9								LCP1			LAIR1									MMP14		
+MCM6			RPS3A																		ITGA5	IL18	FCGR2A		SERPINA1								MS4A4A			LAPTM5									MYL9		
+NUSAP1			RPS8																		LAMB1	LAT2	FCGR3A		SLC11A1								MSR1			LY96									MYO1C		
+PRC1			SNHG6																		LAMC1	LGALS9	FERMT3		SQRDL								MYO1F			LYN									NRP1		
+PTTG1																					LEPRE1	LILRB4	GPSM3		SRGN								NPC2			MFSD1									PCOLCE		
+RACGAP1																					LOXL2	LST1	HCK		STAB1								SLC7A7			MS4A4A									RCN3		
+RCC1																					LUM	LY86	HCST		TCIRG1								TLR2			MS4A6A									THBS1		
+RNASEH2A																					MMP14	NCKAP1L	ITGB2										VAMP8			MYO1F									TPM4		
+RRM2																					MMP9	PARVG	LAIR1										VSIG4			NPC2									VASP		
+SMC4																					MYL9	RGS10	LAPTM5										ADPGK			PTPN6											
+TOP2A																					MYO1C	RNASET2	LCP1										ARPC1B			SASH3											
+TPX2																					PCOLCE	RPS6KA1	LY96										CD14			SERPINB1											
+TYMS																					PDGFRB	TBXAS1	LYN										ALOX5AP			SLC7A7											
+UBE2C																					SERPINH1	TREM2	MANBA										CD163			SPI1											
+UBE2T																					SPON2		MFSD1										CTSB			VAMP8											
+UHRF1																					UACA		MS4A4A										CTSL1			ARPC1B											
+ZWINT																					WIPI1		MS4A6A										FPR1			CD14											
+																							MSR1										IFI30			FPR1											
+																							MYO1F										RAC2			RAC2											
+																							NPC2										SERPINA1			SERPINA1											
+																							P2RX4										SLC11A1			SQRDL											
+																							PLA2G15										SQRDL			STAB1											
+																							PLEK										SRGN			ARHGDIB											
+																							PTPN6										STAB1			CD4											
+																							PTPRC										CREG1			HCLS1											
+																							PYCARD										CTSD			LCP2											
+																							RNASE6										FTL			RHBDF2											
+																							SASH3										MAFB			TNFRSF1B											
+																							SERPINB1										SLA			FUCA1											
+																							SLC7A7													GMFG											
+																							SPI1													GRN											
+																							SYNGR2																								
+																							TLR2																								
+																							TYROBP																								
+																							VAMP8																								
+																							VSIG4																								
