@@ -1,0 +1,442 @@
+A Module Label,B Module Label,A Module Size,B Module Size,Size Ratio,Overlap,FE pValue
+20:transport,20:transport,74,74,1,74,0
+3:translational elongation,20:transport,49,74,0.66216216,0,1
+12:NONE,20:transport,41,74,0.55405405,37,0
+13:cellular component biogenesis,20:transport,26,74,0.35135135,21,0
+15:nuclear division,20:transport,26,74,0.35135135,0,1
+10:glycolysis,20:transport,14,74,0.18918919,0,1
+7:nervous system development,20:transport,12,74,0.16216216,0,1
+11:regulation of Ras protein signal transduction,20:transport,12,74,0.16216216,7,0
+1:oxidative phosphorylation,20:transport,11,74,0.14864865,0,1
+2:glycolysis,20:transport,11,74,0.14864865,0,1
+5:response to DNA damage stimulus,20:transport,11,74,0.14864865,0,1
+6:anti-apoptosis,20:transport,11,74,0.14864865,0,1
+9:nervous system development,20:transport,11,74,0.14864865,0,1
+4:protein folding,20:transport,9,74,0.12162162,0,1
+16:translational elongation,20:transport,9,74,0.12162162,0,1
+8:response to organic substance,20:transport,8,74,0.10810811,0,1
+19:DNA replication,20:transport,8,74,0.10810811,0,1
+21:response to inorganic substance,20:transport,8,74,0.10810811,0,1
+17:anatomical structure development,20:transport,7,74,0.09459459,0,1
+18:antigen processing and presentation of peptide antigen,20:transport,7,74,0.09459459,0,1
+14:cellular amino acid metabolic process,20:transport,6,74,0.08108108,2,0.00221776
+20:transport,3:translational elongation,74,49,0.66216216,0,1
+3:translational elongation,3:translational elongation,49,49,1,49,0
+12:NONE,3:translational elongation,41,49,0.83673469,0,1
+13:cellular component biogenesis,3:translational elongation,26,49,0.53061224,0,1
+15:nuclear division,3:translational elongation,26,49,0.53061224,0,1
+10:glycolysis,3:translational elongation,14,49,0.28571429,0,1
+7:nervous system development,3:translational elongation,12,49,0.24489796,0,1
+11:regulation of Ras protein signal transduction,3:translational elongation,12,49,0.24489796,0,1
+1:oxidative phosphorylation,3:translational elongation,11,49,0.2244898,0,1
+2:glycolysis,3:translational elongation,11,49,0.2244898,0,1
+5:response to DNA damage stimulus,3:translational elongation,11,49,0.2244898,0,1
+6:anti-apoptosis,3:translational elongation,11,49,0.2244898,0,1
+9:nervous system development,3:translational elongation,11,49,0.2244898,0,1
+4:protein folding,3:translational elongation,9,49,0.18367347,0,1
+16:translational elongation,3:translational elongation,9,49,0.18367347,2,0.00230693
+8:response to organic substance,3:translational elongation,8,49,0.16326531,0,1
+19:DNA replication,3:translational elongation,8,49,0.16326531,0,1
+21:response to inorganic substance,3:translational elongation,8,49,0.16326531,0,1
+17:anatomical structure development,3:translational elongation,7,49,0.14285714,0,1
+18:antigen processing and presentation of peptide antigen,3:translational elongation,7,49,0.14285714,0,1
+14:cellular amino acid metabolic process,3:translational elongation,6,49,0.12244898,0,1
+20:transport,12:NONE,74,41,0.55405405,37,0
+3:translational elongation,12:NONE,49,41,0.83673469,0,1
+12:NONE,12:NONE,41,41,1,41,0
+13:cellular component biogenesis,12:NONE,26,41,0.63414634,0,1
+15:nuclear division,12:NONE,26,41,0.63414634,0,1
+10:glycolysis,12:NONE,14,41,0.34146341,0,1
+7:nervous system development,12:NONE,12,41,0.29268293,0,1
+11:regulation of Ras protein signal transduction,12:NONE,12,41,0.29268293,0,1
+1:oxidative phosphorylation,12:NONE,11,41,0.26829268,0,1
+2:glycolysis,12:NONE,11,41,0.26829268,0,1
+5:response to DNA damage stimulus,12:NONE,11,41,0.26829268,0,1
+6:anti-apoptosis,12:NONE,11,41,0.26829268,0,1
+9:nervous system development,12:NONE,11,41,0.26829268,0,1
+4:protein folding,12:NONE,9,41,0.2195122,0,1
+16:translational elongation,12:NONE,9,41,0.2195122,0,1
+8:response to organic substance,12:NONE,8,41,0.19512195,0,1
+19:DNA replication,12:NONE,8,41,0.19512195,0,1
+21:response to inorganic substance,12:NONE,8,41,0.19512195,0,1
+17:anatomical structure development,12:NONE,7,41,0.17073171,0,1
+18:antigen processing and presentation of peptide antigen,12:NONE,7,41,0.17073171,0,1
+14:cellular amino acid metabolic process,12:NONE,6,41,0.14634146,0,1
+20:transport,13:cellular component biogenesis,74,26,0.35135135,21,0
+3:translational elongation,13:cellular component biogenesis,49,26,0.53061224,0,1
+12:NONE,13:cellular component biogenesis,41,26,0.63414634,0,1
+13:cellular component biogenesis,13:cellular component biogenesis,26,26,1,26,0
+15:nuclear division,13:cellular component biogenesis,26,26,1,1,0.10786816
+10:glycolysis,13:cellular component biogenesis,14,26,0.53846154,0,1
+7:nervous system development,13:cellular component biogenesis,12,26,0.46153846,0,1
+11:regulation of Ras protein signal transduction,13:cellular component biogenesis,12,26,0.46153846,0,1
+1:oxidative phosphorylation,13:cellular component biogenesis,11,26,0.42307692,0,1
+2:glycolysis,13:cellular component biogenesis,11,26,0.42307692,0,1
+5:response to DNA damage stimulus,13:cellular component biogenesis,11,26,0.42307692,0,1
+6:anti-apoptosis,13:cellular component biogenesis,11,26,0.42307692,1,0.04708487
+9:nervous system development,13:cellular component biogenesis,11,26,0.42307692,0,1
+4:protein folding,13:cellular component biogenesis,9,26,0.34615385,0,1
+16:translational elongation,13:cellular component biogenesis,9,26,0.34615385,0,1
+8:response to organic substance,13:cellular component biogenesis,8,26,0.30769231,0,1
+19:DNA replication,13:cellular component biogenesis,8,26,0.30769231,0,1
+21:response to inorganic substance,13:cellular component biogenesis,8,26,0.30769231,0,1
+17:anatomical structure development,13:cellular component biogenesis,7,26,0.26923077,0,1
+18:antigen processing and presentation of peptide antigen,13:cellular component biogenesis,7,26,0.26923077,0,1
+14:cellular amino acid metabolic process,13:cellular component biogenesis,6,26,0.23076923,0,1
+20:transport,15:nuclear division,74,26,0.35135135,0,1
+3:translational elongation,15:nuclear division,49,26,0.53061224,0,1
+12:NONE,15:nuclear division,41,26,0.63414634,0,1
+13:cellular component biogenesis,15:nuclear division,26,26,1,1,0.10786816
+15:nuclear division,15:nuclear division,26,26,1,26,0
+10:glycolysis,15:nuclear division,14,26,0.53846154,0,1
+7:nervous system development,15:nuclear division,12,26,0.46153846,0,1
+11:regulation of Ras protein signal transduction,15:nuclear division,12,26,0.46153846,0,1
+1:oxidative phosphorylation,15:nuclear division,11,26,0.42307692,0,1
+2:glycolysis,15:nuclear division,11,26,0.42307692,0,1
+5:response to DNA damage stimulus,15:nuclear division,11,26,0.42307692,0,1
+6:anti-apoptosis,15:nuclear division,11,26,0.42307692,1,0.04708487
+9:nervous system development,15:nuclear division,11,26,0.42307692,0,1
+4:protein folding,15:nuclear division,9,26,0.34615385,0,1
+16:translational elongation,15:nuclear division,9,26,0.34615385,0,1
+8:response to organic substance,15:nuclear division,8,26,0.30769231,0,1
+19:DNA replication,15:nuclear division,8,26,0.30769231,2,0.00050627
+21:response to inorganic substance,15:nuclear division,8,26,0.30769231,0,1
+17:anatomical structure development,15:nuclear division,7,26,0.26923077,0,1
+18:antigen processing and presentation of peptide antigen,15:nuclear division,7,26,0.26923077,0,1
+14:cellular amino acid metabolic process,15:nuclear division,6,26,0.23076923,0,1
+20:transport,10:glycolysis,74,14,0.18918919,0,1
+3:translational elongation,10:glycolysis,49,14,0.28571429,0,1
+12:NONE,10:glycolysis,41,14,0.34146341,0,1
+13:cellular component biogenesis,10:glycolysis,26,14,0.53846154,0,1
+15:nuclear division,10:glycolysis,26,14,0.53846154,0,1
+10:glycolysis,10:glycolysis,14,14,1,14,0
+7:nervous system development,10:glycolysis,12,14,0.85714286,0,1
+11:regulation of Ras protein signal transduction,10:glycolysis,12,14,0.85714286,0,1
+1:oxidative phosphorylation,10:glycolysis,11,14,0.78571429,0,1
+2:glycolysis,10:glycolysis,11,14,0.78571429,0,1
+5:response to DNA damage stimulus,10:glycolysis,11,14,0.78571429,0,1
+6:anti-apoptosis,10:glycolysis,11,14,0.78571429,0,1
+9:nervous system development,10:glycolysis,11,14,0.78571429,0,1
+4:protein folding,10:glycolysis,9,14,0.64285714,0,1
+16:translational elongation,10:glycolysis,9,14,0.64285714,0,1
+8:response to organic substance,10:glycolysis,8,14,0.57142857,0,1
+19:DNA replication,10:glycolysis,8,14,0.57142857,0,1
+21:response to inorganic substance,10:glycolysis,8,14,0.57142857,0,1
+17:anatomical structure development,10:glycolysis,7,14,0.5,0,1
+18:antigen processing and presentation of peptide antigen,10:glycolysis,7,14,0.5,0,1
+14:cellular amino acid metabolic process,10:glycolysis,6,14,0.42857143,0,1
+20:transport,7:nervous system development,74,12,0.16216216,0,1
+3:translational elongation,7:nervous system development,49,12,0.24489796,0,1
+12:NONE,7:nervous system development,41,12,0.29268293,0,1
+13:cellular component biogenesis,7:nervous system development,26,12,0.46153846,0,1
+15:nuclear division,7:nervous system development,26,12,0.46153846,0,1
+10:glycolysis,7:nervous system development,14,12,0.85714286,0,1
+7:nervous system development,7:nervous system development,12,12,1,12,0
+11:regulation of Ras protein signal transduction,7:nervous system development,12,12,1,0,1
+1:oxidative phosphorylation,7:nervous system development,11,12,0.91666667,0,1
+2:glycolysis,7:nervous system development,11,12,0.91666667,0,1
+5:response to DNA damage stimulus,7:nervous system development,11,12,0.91666667,0,1
+6:anti-apoptosis,7:nervous system development,11,12,0.91666667,0,1
+9:nervous system development,7:nervous system development,11,12,0.91666667,0,1
+4:protein folding,7:nervous system development,9,12,0.75,0,1
+16:translational elongation,7:nervous system development,9,12,0.75,0,1
+8:response to organic substance,7:nervous system development,8,12,0.66666667,0,1
+19:DNA replication,7:nervous system development,8,12,0.66666667,0,1
+21:response to inorganic substance,7:nervous system development,8,12,0.66666667,0,1
+17:anatomical structure development,7:nervous system development,7,12,0.58333333,0,1
+18:antigen processing and presentation of peptide antigen,7:nervous system development,7,12,0.58333333,0,1
+14:cellular amino acid metabolic process,7:nervous system development,6,12,0.5,0,1
+20:transport,11:regulation of Ras protein signal transduction,74,12,0.16216216,7,0
+3:translational elongation,11:regulation of Ras protein signal transduction,49,12,0.24489796,0,1
+12:NONE,11:regulation of Ras protein signal transduction,41,12,0.29268293,0,1
+13:cellular component biogenesis,11:regulation of Ras protein signal transduction,26,12,0.46153846,0,1
+15:nuclear division,11:regulation of Ras protein signal transduction,26,12,0.46153846,0,1
+10:glycolysis,11:regulation of Ras protein signal transduction,14,12,0.85714286,0,1
+7:nervous system development,11:regulation of Ras protein signal transduction,12,12,1,0,1
+11:regulation of Ras protein signal transduction,11:regulation of Ras protein signal transduction,12,12,1,12,0
+1:oxidative phosphorylation,11:regulation of Ras protein signal transduction,11,12,0.91666667,0,1
+2:glycolysis,11:regulation of Ras protein signal transduction,11,12,0.91666667,0,1
+5:response to DNA damage stimulus,11:regulation of Ras protein signal transduction,11,12,0.91666667,0,1
+6:anti-apoptosis,11:regulation of Ras protein signal transduction,11,12,0.91666667,0,1
+9:nervous system development,11:regulation of Ras protein signal transduction,11,12,0.91666667,0,1
+4:protein folding,11:regulation of Ras protein signal transduction,9,12,0.75,0,1
+16:translational elongation,11:regulation of Ras protein signal transduction,9,12,0.75,0,1
+8:response to organic substance,11:regulation of Ras protein signal transduction,8,12,0.66666667,1,0.01603574
+19:DNA replication,11:regulation of Ras protein signal transduction,8,12,0.66666667,0,1
+21:response to inorganic substance,11:regulation of Ras protein signal transduction,8,12,0.66666667,1,0.01603574
+17:anatomical structure development,11:regulation of Ras protein signal transduction,7,12,0.58333333,0,1
+18:antigen processing and presentation of peptide antigen,11:regulation of Ras protein signal transduction,7,12,0.58333333,0,1
+14:cellular amino acid metabolic process,11:regulation of Ras protein signal transduction,6,12,0.5,0,1
+20:transport,1:oxidative phosphorylation,74,11,0.14864865,0,1
+3:translational elongation,1:oxidative phosphorylation,49,11,0.2244898,0,1
+12:NONE,1:oxidative phosphorylation,41,11,0.26829268,0,1
+13:cellular component biogenesis,1:oxidative phosphorylation,26,11,0.42307692,0,1
+15:nuclear division,1:oxidative phosphorylation,26,11,0.42307692,0,1
+10:glycolysis,1:oxidative phosphorylation,14,11,0.78571429,0,1
+7:nervous system development,1:oxidative phosphorylation,12,11,0.91666667,0,1
+11:regulation of Ras protein signal transduction,1:oxidative phosphorylation,12,11,0.91666667,0,1
+1:oxidative phosphorylation,1:oxidative phosphorylation,11,11,1,11,0
+2:glycolysis,1:oxidative phosphorylation,11,11,1,1,0.02017271
+5:response to DNA damage stimulus,1:oxidative phosphorylation,11,11,1,1,0.02017271
+6:anti-apoptosis,1:oxidative phosphorylation,11,11,1,1,0.02017271
+9:nervous system development,1:oxidative phosphorylation,11,11,1,2,0.00016949
+4:protein folding,1:oxidative phosphorylation,9,11,0.81818182,0,1
+16:translational elongation,1:oxidative phosphorylation,9,11,0.81818182,3,0.00000039
+8:response to organic substance,1:oxidative phosphorylation,8,11,0.72727273,0,1
+19:DNA replication,1:oxidative phosphorylation,8,11,0.72727273,0,1
+21:response to inorganic substance,1:oxidative phosphorylation,8,11,0.72727273,0,1
+17:anatomical structure development,1:oxidative phosphorylation,7,11,0.63636364,0,1
+18:antigen processing and presentation of peptide antigen,1:oxidative phosphorylation,7,11,0.63636364,0,1
+14:cellular amino acid metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+20:transport,2:glycolysis,74,11,0.14864865,0,1
+3:translational elongation,2:glycolysis,49,11,0.2244898,0,1
+12:NONE,2:glycolysis,41,11,0.26829268,0,1
+13:cellular component biogenesis,2:glycolysis,26,11,0.42307692,0,1
+15:nuclear division,2:glycolysis,26,11,0.42307692,0,1
+10:glycolysis,2:glycolysis,14,11,0.78571429,0,1
+7:nervous system development,2:glycolysis,12,11,0.91666667,0,1
+11:regulation of Ras protein signal transduction,2:glycolysis,12,11,0.91666667,0,1
+1:oxidative phosphorylation,2:glycolysis,11,11,1,1,0.02017271
+2:glycolysis,2:glycolysis,11,11,1,11,0
+5:response to DNA damage stimulus,2:glycolysis,11,11,1,2,0.00016949
+6:anti-apoptosis,2:glycolysis,11,11,1,1,0.02017271
+9:nervous system development,2:glycolysis,11,11,1,1,0.02017271
+4:protein folding,2:glycolysis,9,11,0.81818182,0,1
+16:translational elongation,2:glycolysis,9,11,0.81818182,0,1
+8:response to organic substance,2:glycolysis,8,11,0.72727273,0,1
+19:DNA replication,2:glycolysis,8,11,0.72727273,0,1
+21:response to inorganic substance,2:glycolysis,8,11,0.72727273,0,1
+17:anatomical structure development,2:glycolysis,7,11,0.63636364,0,1
+18:antigen processing and presentation of peptide antigen,2:glycolysis,7,11,0.63636364,0,1
+14:cellular amino acid metabolic process,2:glycolysis,6,11,0.54545455,0,1
+20:transport,5:response to DNA damage stimulus,74,11,0.14864865,0,1
+3:translational elongation,5:response to DNA damage stimulus,49,11,0.2244898,0,1
+12:NONE,5:response to DNA damage stimulus,41,11,0.26829268,0,1
+13:cellular component biogenesis,5:response to DNA damage stimulus,26,11,0.42307692,0,1
+15:nuclear division,5:response to DNA damage stimulus,26,11,0.42307692,0,1
+10:glycolysis,5:response to DNA damage stimulus,14,11,0.78571429,0,1
+7:nervous system development,5:response to DNA damage stimulus,12,11,0.91666667,0,1
+11:regulation of Ras protein signal transduction,5:response to DNA damage stimulus,12,11,0.91666667,0,1
+1:oxidative phosphorylation,5:response to DNA damage stimulus,11,11,1,1,0.02017271
+2:glycolysis,5:response to DNA damage stimulus,11,11,1,2,0.00016949
+5:response to DNA damage stimulus,5:response to DNA damage stimulus,11,11,1,11,0
+6:anti-apoptosis,5:response to DNA damage stimulus,11,11,1,1,0.02017271
+9:nervous system development,5:response to DNA damage stimulus,11,11,1,1,0.02017271
+4:protein folding,5:response to DNA damage stimulus,9,11,0.81818182,0,1
+16:translational elongation,5:response to DNA damage stimulus,9,11,0.81818182,0,1
+8:response to organic substance,5:response to DNA damage stimulus,8,11,0.72727273,0,1
+19:DNA replication,5:response to DNA damage stimulus,8,11,0.72727273,0,1
+21:response to inorganic substance,5:response to DNA damage stimulus,8,11,0.72727273,0,1
+17:anatomical structure development,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+18:antigen processing and presentation of peptide antigen,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+14:cellular amino acid metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+20:transport,6:anti-apoptosis,74,11,0.14864865,0,1
+3:translational elongation,6:anti-apoptosis,49,11,0.2244898,0,1
+12:NONE,6:anti-apoptosis,41,11,0.26829268,0,1
+13:cellular component biogenesis,6:anti-apoptosis,26,11,0.42307692,1,0.04708487
+15:nuclear division,6:anti-apoptosis,26,11,0.42307692,1,0.04708487
+10:glycolysis,6:anti-apoptosis,14,11,0.78571429,0,1
+7:nervous system development,6:anti-apoptosis,12,11,0.91666667,0,1
+11:regulation of Ras protein signal transduction,6:anti-apoptosis,12,11,0.91666667,0,1
+1:oxidative phosphorylation,6:anti-apoptosis,11,11,1,1,0.02017271
+2:glycolysis,6:anti-apoptosis,11,11,1,1,0.02017271
+5:response to DNA damage stimulus,6:anti-apoptosis,11,11,1,1,0.02017271
+6:anti-apoptosis,6:anti-apoptosis,11,11,1,11,0
+9:nervous system development,6:anti-apoptosis,11,11,1,1,0.02017271
+4:protein folding,6:anti-apoptosis,9,11,0.81818182,0,1
+16:translational elongation,6:anti-apoptosis,9,11,0.81818182,0,1
+8:response to organic substance,6:anti-apoptosis,8,11,0.72727273,0,1
+19:DNA replication,6:anti-apoptosis,8,11,0.72727273,0,1
+21:response to inorganic substance,6:anti-apoptosis,8,11,0.72727273,0,1
+17:anatomical structure development,6:anti-apoptosis,7,11,0.63636364,0,1
+18:antigen processing and presentation of peptide antigen,6:anti-apoptosis,7,11,0.63636364,0,1
+14:cellular amino acid metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+20:transport,9:nervous system development,74,11,0.14864865,0,1
+3:translational elongation,9:nervous system development,49,11,0.2244898,0,1
+12:NONE,9:nervous system development,41,11,0.26829268,0,1
+13:cellular component biogenesis,9:nervous system development,26,11,0.42307692,0,1
+15:nuclear division,9:nervous system development,26,11,0.42307692,0,1
+10:glycolysis,9:nervous system development,14,11,0.78571429,0,1
+7:nervous system development,9:nervous system development,12,11,0.91666667,0,1
+11:regulation of Ras protein signal transduction,9:nervous system development,12,11,0.91666667,0,1
+1:oxidative phosphorylation,9:nervous system development,11,11,1,2,0.00016949
+2:glycolysis,9:nervous system development,11,11,1,1,0.02017271
+5:response to DNA damage stimulus,9:nervous system development,11,11,1,1,0.02017271
+6:anti-apoptosis,9:nervous system development,11,11,1,1,0.02017271
+9:nervous system development,9:nervous system development,11,11,1,11,0
+4:protein folding,9:nervous system development,9,11,0.81818182,0,1
+16:translational elongation,9:nervous system development,9,11,0.81818182,0,1
+8:response to organic substance,9:nervous system development,8,11,0.72727273,0,1
+19:DNA replication,9:nervous system development,8,11,0.72727273,0,1
+21:response to inorganic substance,9:nervous system development,8,11,0.72727273,0,1
+17:anatomical structure development,9:nervous system development,7,11,0.63636364,0,1
+18:antigen processing and presentation of peptide antigen,9:nervous system development,7,11,0.63636364,0,1
+14:cellular amino acid metabolic process,9:nervous system development,6,11,0.54545455,0,1
+20:transport,4:protein folding,74,9,0.12162162,0,1
+3:translational elongation,4:protein folding,49,9,0.18367347,0,1
+12:NONE,4:protein folding,41,9,0.2195122,0,1
+13:cellular component biogenesis,4:protein folding,26,9,0.34615385,0,1
+15:nuclear division,4:protein folding,26,9,0.34615385,0,1
+10:glycolysis,4:protein folding,14,9,0.64285714,0,1
+7:nervous system development,4:protein folding,12,9,0.75,0,1
+11:regulation of Ras protein signal transduction,4:protein folding,12,9,0.75,0,1
+1:oxidative phosphorylation,4:protein folding,11,9,0.81818182,0,1
+2:glycolysis,4:protein folding,11,9,0.81818182,0,1
+5:response to DNA damage stimulus,4:protein folding,11,9,0.81818182,0,1
+6:anti-apoptosis,4:protein folding,11,9,0.81818182,0,1
+9:nervous system development,4:protein folding,11,9,0.81818182,0,1
+4:protein folding,4:protein folding,9,9,1,9,0
+16:translational elongation,4:protein folding,9,9,1,0,1
+8:response to organic substance,4:protein folding,8,9,0.88888889,0,1
+19:DNA replication,4:protein folding,8,9,0.88888889,0,1
+21:response to inorganic substance,4:protein folding,8,9,0.88888889,0,1
+17:anatomical structure development,4:protein folding,7,9,0.77777778,1,0.01054913
+18:antigen processing and presentation of peptide antigen,4:protein folding,7,9,0.77777778,0,1
+14:cellular amino acid metabolic process,4:protein folding,6,9,0.66666667,0,1
+20:transport,16:translational elongation,74,9,0.12162162,0,1
+3:translational elongation,16:translational elongation,49,9,0.18367347,2,0.00230693
+12:NONE,16:translational elongation,41,9,0.2195122,0,1
+13:cellular component biogenesis,16:translational elongation,26,9,0.34615385,0,1
+15:nuclear division,16:translational elongation,26,9,0.34615385,0,1
+10:glycolysis,16:translational elongation,14,9,0.64285714,0,1
+7:nervous system development,16:translational elongation,12,9,0.75,0,1
+11:regulation of Ras protein signal transduction,16:translational elongation,12,9,0.75,0,1
+1:oxidative phosphorylation,16:translational elongation,11,9,0.81818182,3,0.00000039
+2:glycolysis,16:translational elongation,11,9,0.81818182,0,1
+5:response to DNA damage stimulus,16:translational elongation,11,9,0.81818182,0,1
+6:anti-apoptosis,16:translational elongation,11,9,0.81818182,0,1
+9:nervous system development,16:translational elongation,11,9,0.81818182,0,1
+4:protein folding,16:translational elongation,9,9,1,0,1
+16:translational elongation,16:translational elongation,9,9,1,9,0
+8:response to organic substance,16:translational elongation,8,9,0.88888889,0,1
+19:DNA replication,16:translational elongation,8,9,0.88888889,0,1
+21:response to inorganic substance,16:translational elongation,8,9,0.88888889,0,1
+17:anatomical structure development,16:translational elongation,7,9,0.77777778,0,1
+18:antigen processing and presentation of peptide antigen,16:translational elongation,7,9,0.77777778,1,0.01054913
+14:cellular amino acid metabolic process,16:translational elongation,6,9,0.66666667,1,0.0090482
+20:transport,8:response to organic substance,74,8,0.10810811,0,1
+3:translational elongation,8:response to organic substance,49,8,0.16326531,0,1
+12:NONE,8:response to organic substance,41,8,0.19512195,0,1
+13:cellular component biogenesis,8:response to organic substance,26,8,0.30769231,0,1
+15:nuclear division,8:response to organic substance,26,8,0.30769231,0,1
+10:glycolysis,8:response to organic substance,14,8,0.57142857,0,1
+7:nervous system development,8:response to organic substance,12,8,0.66666667,0,1
+11:regulation of Ras protein signal transduction,8:response to organic substance,12,8,0.66666667,1,0.01603574
+1:oxidative phosphorylation,8:response to organic substance,11,8,0.72727273,0,1
+2:glycolysis,8:response to organic substance,11,8,0.72727273,0,1
+5:response to DNA damage stimulus,8:response to organic substance,11,8,0.72727273,0,1
+6:anti-apoptosis,8:response to organic substance,11,8,0.72727273,0,1
+9:nervous system development,8:response to organic substance,11,8,0.72727273,0,1
+4:protein folding,8:response to organic substance,9,8,0.88888889,0,1
+16:translational elongation,8:response to organic substance,9,8,0.88888889,0,1
+8:response to organic substance,8:response to organic substance,8,8,1,8,0
+19:DNA replication,8:response to organic substance,8,8,1,1,0.01071568
+21:response to inorganic substance,8:response to organic substance,8,8,1,2,0.00004415
+17:anatomical structure development,8:response to organic substance,7,8,0.875,0,1
+18:antigen processing and presentation of peptide antigen,8:response to organic substance,7,8,0.875,0,1
+14:cellular amino acid metabolic process,8:response to organic substance,6,8,0.75,0,1
+20:transport,19:DNA replication,74,8,0.10810811,0,1
+3:translational elongation,19:DNA replication,49,8,0.16326531,0,1
+12:NONE,19:DNA replication,41,8,0.19512195,0,1
+13:cellular component biogenesis,19:DNA replication,26,8,0.30769231,0,1
+15:nuclear division,19:DNA replication,26,8,0.30769231,2,0.00050627
+10:glycolysis,19:DNA replication,14,8,0.57142857,0,1
+7:nervous system development,19:DNA replication,12,8,0.66666667,0,1
+11:regulation of Ras protein signal transduction,19:DNA replication,12,8,0.66666667,0,1
+1:oxidative phosphorylation,19:DNA replication,11,8,0.72727273,0,1
+2:glycolysis,19:DNA replication,11,8,0.72727273,0,1
+5:response to DNA damage stimulus,19:DNA replication,11,8,0.72727273,0,1
+6:anti-apoptosis,19:DNA replication,11,8,0.72727273,0,1
+9:nervous system development,19:DNA replication,11,8,0.72727273,0,1
+4:protein folding,19:DNA replication,9,8,0.88888889,0,1
+16:translational elongation,19:DNA replication,9,8,0.88888889,0,1
+8:response to organic substance,19:DNA replication,8,8,1,1,0.01071568
+19:DNA replication,19:DNA replication,8,8,1,8,0
+21:response to inorganic substance,19:DNA replication,8,8,1,1,0.01071568
+17:anatomical structure development,19:DNA replication,7,8,0.875,0,1
+18:antigen processing and presentation of peptide antigen,19:DNA replication,7,8,0.875,0,1
+14:cellular amino acid metabolic process,19:DNA replication,6,8,0.75,0,1
+20:transport,21:response to inorganic substance,74,8,0.10810811,0,1
+3:translational elongation,21:response to inorganic substance,49,8,0.16326531,0,1
+12:NONE,21:response to inorganic substance,41,8,0.19512195,0,1
+13:cellular component biogenesis,21:response to inorganic substance,26,8,0.30769231,0,1
+15:nuclear division,21:response to inorganic substance,26,8,0.30769231,0,1
+10:glycolysis,21:response to inorganic substance,14,8,0.57142857,0,1
+7:nervous system development,21:response to inorganic substance,12,8,0.66666667,0,1
+11:regulation of Ras protein signal transduction,21:response to inorganic substance,12,8,0.66666667,1,0.01603574
+1:oxidative phosphorylation,21:response to inorganic substance,11,8,0.72727273,0,1
+2:glycolysis,21:response to inorganic substance,11,8,0.72727273,0,1
+5:response to DNA damage stimulus,21:response to inorganic substance,11,8,0.72727273,0,1
+6:anti-apoptosis,21:response to inorganic substance,11,8,0.72727273,0,1
+9:nervous system development,21:response to inorganic substance,11,8,0.72727273,0,1
+4:protein folding,21:response to inorganic substance,9,8,0.88888889,0,1
+16:translational elongation,21:response to inorganic substance,9,8,0.88888889,0,1
+8:response to organic substance,21:response to inorganic substance,8,8,1,2,0.00004415
+19:DNA replication,21:response to inorganic substance,8,8,1,1,0.01071568
+21:response to inorganic substance,21:response to inorganic substance,8,8,1,8,0
+17:anatomical structure development,21:response to inorganic substance,7,8,0.875,0,1
+18:antigen processing and presentation of peptide antigen,21:response to inorganic substance,7,8,0.875,0,1
+14:cellular amino acid metabolic process,21:response to inorganic substance,6,8,0.75,0,1
+20:transport,17:anatomical structure development,74,7,0.09459459,0,1
+3:translational elongation,17:anatomical structure development,49,7,0.14285714,0,1
+12:NONE,17:anatomical structure development,41,7,0.17073171,0,1
+13:cellular component biogenesis,17:anatomical structure development,26,7,0.26923077,0,1
+15:nuclear division,17:anatomical structure development,26,7,0.26923077,0,1
+10:glycolysis,17:anatomical structure development,14,7,0.5,0,1
+7:nervous system development,17:anatomical structure development,12,7,0.58333333,0,1
+11:regulation of Ras protein signal transduction,17:anatomical structure development,12,7,0.58333333,0,1
+1:oxidative phosphorylation,17:anatomical structure development,11,7,0.63636364,0,1
+2:glycolysis,17:anatomical structure development,11,7,0.63636364,0,1
+5:response to DNA damage stimulus,17:anatomical structure development,11,7,0.63636364,0,1
+6:anti-apoptosis,17:anatomical structure development,11,7,0.63636364,0,1
+9:nervous system development,17:anatomical structure development,11,7,0.63636364,0,1
+4:protein folding,17:anatomical structure development,9,7,0.77777778,1,0.01054913
+16:translational elongation,17:anatomical structure development,9,7,0.77777778,0,1
+8:response to organic substance,17:anatomical structure development,8,7,0.875,0,1
+19:DNA replication,17:anatomical structure development,8,7,0.875,0,1
+21:response to inorganic substance,17:anatomical structure development,8,7,0.875,0,1
+17:anatomical structure development,17:anatomical structure development,7,7,1,7,0
+18:antigen processing and presentation of peptide antigen,17:anatomical structure development,7,7,1,1,0.00821316
+14:cellular amino acid metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.00704341
+20:transport,18:antigen processing and presentation of peptide antigen,74,7,0.09459459,0,1
+3:translational elongation,18:antigen processing and presentation of peptide antigen,49,7,0.14285714,0,1
+12:NONE,18:antigen processing and presentation of peptide antigen,41,7,0.17073171,0,1
+13:cellular component biogenesis,18:antigen processing and presentation of peptide antigen,26,7,0.26923077,0,1
+15:nuclear division,18:antigen processing and presentation of peptide antigen,26,7,0.26923077,0,1
+10:glycolysis,18:antigen processing and presentation of peptide antigen,14,7,0.5,0,1
+7:nervous system development,18:antigen processing and presentation of peptide antigen,12,7,0.58333333,0,1
+11:regulation of Ras protein signal transduction,18:antigen processing and presentation of peptide antigen,12,7,0.58333333,0,1
+1:oxidative phosphorylation,18:antigen processing and presentation of peptide antigen,11,7,0.63636364,0,1
+2:glycolysis,18:antigen processing and presentation of peptide antigen,11,7,0.63636364,0,1
+5:response to DNA damage stimulus,18:antigen processing and presentation of peptide antigen,11,7,0.63636364,0,1
+6:anti-apoptosis,18:antigen processing and presentation of peptide antigen,11,7,0.63636364,0,1
+9:nervous system development,18:antigen processing and presentation of peptide antigen,11,7,0.63636364,0,1
+4:protein folding,18:antigen processing and presentation of peptide antigen,9,7,0.77777778,0,1
+16:translational elongation,18:antigen processing and presentation of peptide antigen,9,7,0.77777778,1,0.01054913
+8:response to organic substance,18:antigen processing and presentation of peptide antigen,8,7,0.875,0,1
+19:DNA replication,18:antigen processing and presentation of peptide antigen,8,7,0.875,0,1
+21:response to inorganic substance,18:antigen processing and presentation of peptide antigen,8,7,0.875,0,1
+17:anatomical structure development,18:antigen processing and presentation of peptide antigen,7,7,1,1,0.00821316
+18:antigen processing and presentation of peptide antigen,18:antigen processing and presentation of peptide antigen,7,7,1,7,0
+14:cellular amino acid metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,2,0.00001777
+20:transport,14:cellular amino acid metabolic process,74,6,0.08108108,2,0.00221776
+3:translational elongation,14:cellular amino acid metabolic process,49,6,0.12244898,0,1
+12:NONE,14:cellular amino acid metabolic process,41,6,0.14634146,0,1
+13:cellular component biogenesis,14:cellular amino acid metabolic process,26,6,0.23076923,0,1
+15:nuclear division,14:cellular amino acid metabolic process,26,6,0.23076923,0,1
+10:glycolysis,14:cellular amino acid metabolic process,14,6,0.42857143,0,1
+7:nervous system development,14:cellular amino acid metabolic process,12,6,0.5,0,1
+11:regulation of Ras protein signal transduction,14:cellular amino acid metabolic process,12,6,0.5,0,1
+1:oxidative phosphorylation,14:cellular amino acid metabolic process,11,6,0.54545455,0,1
+2:glycolysis,14:cellular amino acid metabolic process,11,6,0.54545455,0,1
+5:response to DNA damage stimulus,14:cellular amino acid metabolic process,11,6,0.54545455,0,1
+6:anti-apoptosis,14:cellular amino acid metabolic process,11,6,0.54545455,0,1
+9:nervous system development,14:cellular amino acid metabolic process,11,6,0.54545455,0,1
+4:protein folding,14:cellular amino acid metabolic process,9,6,0.66666667,0,1
+16:translational elongation,14:cellular amino acid metabolic process,9,6,0.66666667,1,0.0090482
+8:response to organic substance,14:cellular amino acid metabolic process,8,6,0.75,0,1
+19:DNA replication,14:cellular amino acid metabolic process,8,6,0.75,0,1
+21:response to inorganic substance,14:cellular amino acid metabolic process,8,6,0.75,0,1
+17:anatomical structure development,14:cellular amino acid metabolic process,7,6,0.85714286,1,0.00704341
+18:antigen processing and presentation of peptide antigen,14:cellular amino acid metabolic process,7,6,0.85714286,2,0.00001777
+14:cellular amino acid metabolic process,14:cellular amino acid metabolic process,6,6,1,6,0

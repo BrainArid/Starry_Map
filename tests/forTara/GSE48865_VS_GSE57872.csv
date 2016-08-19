@@ -1,0 +1,1009 @@
+A Module Label,B Module Label,A Module Size,B Module Size,Size Ratio,Overlap,FE pValue
+1:cell cycle,3:translational elongation,18,45,0.4,0,1
+4:translational elongation,3:translational elongation,16,45,0.35555556,10,0
+22:extracellular matrix organization,3:translational elongation,10,45,0.22222222,0,1
+34:response to external stimulus,3:translational elongation,10,45,0.22222222,0,1
+46:collagen fibril organization,3:translational elongation,9,45,0.2,0,1
+2:RNA splicing,3:translational elongation,8,45,0.17777778,0,1
+11:NONE,3:translational elongation,8,45,0.17777778,0,1
+40:response to biotic stimulus,3:translational elongation,8,45,0.17777778,0,1
+10:NONE,3:translational elongation,7,45,0.15555556,0,1
+19:NONE,3:translational elongation,7,45,0.15555556,0,1
+24:immune response,3:translational elongation,7,45,0.15555556,0,1
+26:response to external stimulus,3:translational elongation,7,45,0.15555556,0,1
+28:RNA metabolic process,3:translational elongation,7,45,0.15555556,0,1
+43:cell adhesion,3:translational elongation,7,45,0.15555556,0,1
+5:NONE,3:translational elongation,6,45,0.13333333,4,0.00000022
+6:generation of precursor metabolites and energy,3:translational elongation,6,45,0.13333333,0,1
+7:antigen processing and presentation,3:translational elongation,6,45,0.13333333,0,1
+8:cellular amino acid metabolic process,3:translational elongation,6,45,0.13333333,0,1
+9:cellular amino acid metabolic process,3:translational elongation,6,45,0.13333333,0,1
+12:cellular amino acid metabolic process,3:translational elongation,6,45,0.13333333,0,1
+13:synaptic transmission,3:translational elongation,6,45,0.13333333,0,1
+15:cellular amino acid metabolic process,3:translational elongation,6,45,0.13333333,0,1
+17:nitrogen compound metabolic process,3:translational elongation,6,45,0.13333333,0,1
+21:establishment of localization in cell,3:translational elongation,6,45,0.13333333,0,1
+27:macromolecule metabolic process,3:translational elongation,6,45,0.13333333,0,1
+33:NONE,3:translational elongation,6,45,0.13333333,0,1
+36:carboxylic acid metabolic process,3:translational elongation,6,45,0.13333333,0,1
+37:immune response,3:translational elongation,6,45,0.13333333,0,1
+39:anatomical structure morphogenesis,3:translational elongation,6,45,0.13333333,0,1
+44:vesicle-mediated transport,3:translational elongation,6,45,0.13333333,0,1
+45:NONE,3:translational elongation,6,45,0.13333333,0,1
+14:cellular component organization,3:translational elongation,5,45,0.11111111,0,1
+16:regulation of cell differentiation,3:translational elongation,5,45,0.11111111,0,1
+18:response to external stimulus,3:translational elongation,5,45,0.11111111,0,1
+20:cellular carbohydrate metabolic process,3:translational elongation,5,45,0.11111111,0,1
+41:regulation of microtubule depolymerization,3:translational elongation,5,45,0.11111111,0,1
+47:cellular component organization,3:translational elongation,5,45,0.11111111,0,1
+48:cell motion,3:translational elongation,5,45,0.11111111,0,1
+29:cell fate commitment,3:translational elongation,4,45,0.08888889,0,1
+31:regulation of developmental process,3:translational elongation,4,45,0.08888889,0,1
+32:regulation of multicellular organismal process,3:translational elongation,4,45,0.08888889,0,1
+3:RNA metabolic process,3:translational elongation,3,45,0.06666667,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,3:translational elongation,3,45,0.06666667,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,3:translational elongation,3,45,0.06666667,0,1
+23:immune response,3:translational elongation,2,45,0.04444444,0,1
+42:G-protein coupled receptor protein signaling pathway,3:translational elongation,2,45,0.04444444,0,1
+25:immune system process,3:translational elongation,1,45,0.02222222,0,1
+30:NONE,3:translational elongation,1,45,0.02222222,0,1
+1:cell cycle,7:nervous system development,18,12,0.66666667,0,1
+4:translational elongation,7:nervous system development,16,12,0.75,0,1
+22:extracellular matrix organization,7:nervous system development,10,12,0.83333333,0,1
+34:response to external stimulus,7:nervous system development,10,12,0.83333333,0,1
+46:collagen fibril organization,7:nervous system development,9,12,0.75,0,1
+2:RNA splicing,7:nervous system development,8,12,0.66666667,0,1
+11:NONE,7:nervous system development,8,12,0.66666667,0,1
+40:response to biotic stimulus,7:nervous system development,8,12,0.66666667,0,1
+10:NONE,7:nervous system development,7,12,0.58333333,0,1
+19:NONE,7:nervous system development,7,12,0.58333333,0,1
+24:immune response,7:nervous system development,7,12,0.58333333,0,1
+26:response to external stimulus,7:nervous system development,7,12,0.58333333,0,1
+28:RNA metabolic process,7:nervous system development,7,12,0.58333333,0,1
+43:cell adhesion,7:nervous system development,7,12,0.58333333,0,1
+5:NONE,7:nervous system development,6,12,0.5,0,1
+6:generation of precursor metabolites and energy,7:nervous system development,6,12,0.5,1,0.01818822
+7:antigen processing and presentation,7:nervous system development,6,12,0.5,0,1
+8:cellular amino acid metabolic process,7:nervous system development,6,12,0.5,0,1
+9:cellular amino acid metabolic process,7:nervous system development,6,12,0.5,0,1
+12:cellular amino acid metabolic process,7:nervous system development,6,12,0.5,0,1
+13:synaptic transmission,7:nervous system development,6,12,0.5,0,1
+15:cellular amino acid metabolic process,7:nervous system development,6,12,0.5,0,1
+17:nitrogen compound metabolic process,7:nervous system development,6,12,0.5,0,1
+21:establishment of localization in cell,7:nervous system development,6,12,0.5,0,1
+27:macromolecule metabolic process,7:nervous system development,6,12,0.5,1,0.01818822
+33:NONE,7:nervous system development,6,12,0.5,0,1
+36:carboxylic acid metabolic process,7:nervous system development,6,12,0.5,0,1
+37:immune response,7:nervous system development,6,12,0.5,0,1
+39:anatomical structure morphogenesis,7:nervous system development,6,12,0.5,0,1
+44:vesicle-mediated transport,7:nervous system development,6,12,0.5,1,0.01818822
+45:NONE,7:nervous system development,6,12,0.5,0,1
+14:cellular component organization,7:nervous system development,5,12,0.41666667,0,1
+16:regulation of cell differentiation,7:nervous system development,5,12,0.41666667,1,0.01517807
+18:response to external stimulus,7:nervous system development,5,12,0.41666667,1,0.01517807
+20:cellular carbohydrate metabolic process,7:nervous system development,5,12,0.41666667,1,0.01517807
+41:regulation of microtubule depolymerization,7:nervous system development,5,12,0.41666667,0,1
+47:cellular component organization,7:nervous system development,5,12,0.41666667,0,1
+48:cell motion,7:nervous system development,5,12,0.41666667,0,1
+29:cell fate commitment,7:nervous system development,4,12,0.33333333,0,1
+31:regulation of developmental process,7:nervous system development,4,12,0.33333333,1,0.01215945
+32:regulation of multicellular organismal process,7:nervous system development,4,12,0.33333333,0,1
+3:RNA metabolic process,7:nervous system development,3,12,0.25,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,7:nervous system development,3,12,0.25,1,0.00913236
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,7:nervous system development,3,12,0.25,1,0.00913236
+23:immune response,7:nervous system development,2,12,0.16666667,0,1
+42:G-protein coupled receptor protein signaling pathway,7:nervous system development,2,12,0.16666667,1,0.00609677
+25:immune system process,7:nervous system development,1,12,0.08333333,0,1
+30:NONE,7:nervous system development,1,12,0.08333333,0,1
+1:cell cycle,10:glycolysis,18,12,0.66666667,0,1
+4:translational elongation,10:glycolysis,16,12,0.75,0,1
+22:extracellular matrix organization,10:glycolysis,10,12,0.83333333,0,1
+34:response to external stimulus,10:glycolysis,10,12,0.83333333,0,1
+46:collagen fibril organization,10:glycolysis,9,12,0.75,0,1
+2:RNA splicing,10:glycolysis,8,12,0.66666667,0,1
+11:NONE,10:glycolysis,8,12,0.66666667,0,1
+40:response to biotic stimulus,10:glycolysis,8,12,0.66666667,0,1
+10:NONE,10:glycolysis,7,12,0.58333333,0,1
+19:NONE,10:glycolysis,7,12,0.58333333,0,1
+24:immune response,10:glycolysis,7,12,0.58333333,0,1
+26:response to external stimulus,10:glycolysis,7,12,0.58333333,0,1
+28:RNA metabolic process,10:glycolysis,7,12,0.58333333,0,1
+43:cell adhesion,10:glycolysis,7,12,0.58333333,0,1
+5:NONE,10:glycolysis,6,12,0.5,0,1
+6:generation of precursor metabolites and energy,10:glycolysis,6,12,0.5,0,1
+7:antigen processing and presentation,10:glycolysis,6,12,0.5,0,1
+8:cellular amino acid metabolic process,10:glycolysis,6,12,0.5,0,1
+9:cellular amino acid metabolic process,10:glycolysis,6,12,0.5,0,1
+12:cellular amino acid metabolic process,10:glycolysis,6,12,0.5,0,1
+13:synaptic transmission,10:glycolysis,6,12,0.5,0,1
+15:cellular amino acid metabolic process,10:glycolysis,6,12,0.5,0,1
+17:nitrogen compound metabolic process,10:glycolysis,6,12,0.5,0,1
+21:establishment of localization in cell,10:glycolysis,6,12,0.5,0,1
+27:macromolecule metabolic process,10:glycolysis,6,12,0.5,0,1
+33:NONE,10:glycolysis,6,12,0.5,0,1
+36:carboxylic acid metabolic process,10:glycolysis,6,12,0.5,0,1
+37:immune response,10:glycolysis,6,12,0.5,0,1
+39:anatomical structure morphogenesis,10:glycolysis,6,12,0.5,0,1
+44:vesicle-mediated transport,10:glycolysis,6,12,0.5,0,1
+45:NONE,10:glycolysis,6,12,0.5,0,1
+14:cellular component organization,10:glycolysis,5,12,0.41666667,0,1
+16:regulation of cell differentiation,10:glycolysis,5,12,0.41666667,0,1
+18:response to external stimulus,10:glycolysis,5,12,0.41666667,0,1
+20:cellular carbohydrate metabolic process,10:glycolysis,5,12,0.41666667,0,1
+41:regulation of microtubule depolymerization,10:glycolysis,5,12,0.41666667,0,1
+47:cellular component organization,10:glycolysis,5,12,0.41666667,0,1
+48:cell motion,10:glycolysis,5,12,0.41666667,0,1
+29:cell fate commitment,10:glycolysis,4,12,0.33333333,0,1
+31:regulation of developmental process,10:glycolysis,4,12,0.33333333,0,1
+32:regulation of multicellular organismal process,10:glycolysis,4,12,0.33333333,0,1
+3:RNA metabolic process,10:glycolysis,3,12,0.25,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,10:glycolysis,3,12,0.25,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,10:glycolysis,3,12,0.25,0,1
+23:immune response,10:glycolysis,2,12,0.16666667,0,1
+42:G-protein coupled receptor protein signaling pathway,10:glycolysis,2,12,0.16666667,0,1
+25:immune system process,10:glycolysis,1,12,0.08333333,0,1
+30:NONE,10:glycolysis,1,12,0.08333333,0,1
+1:cell cycle,1:oxidative phosphorylation,18,11,0.61111111,0,1
+4:translational elongation,1:oxidative phosphorylation,16,11,0.6875,0,1
+22:extracellular matrix organization,1:oxidative phosphorylation,10,11,0.90909091,0,1
+34:response to external stimulus,1:oxidative phosphorylation,10,11,0.90909091,0,1
+46:collagen fibril organization,1:oxidative phosphorylation,9,11,0.81818182,0,1
+2:RNA splicing,1:oxidative phosphorylation,8,11,0.72727273,1,0.0221877
+11:NONE,1:oxidative phosphorylation,8,11,0.72727273,0,1
+40:response to biotic stimulus,1:oxidative phosphorylation,8,11,0.72727273,1,0.0221877
+10:NONE,1:oxidative phosphorylation,7,11,0.63636364,0,1
+19:NONE,1:oxidative phosphorylation,7,11,0.63636364,0,1
+24:immune response,1:oxidative phosphorylation,7,11,0.63636364,0,1
+26:response to external stimulus,1:oxidative phosphorylation,7,11,0.63636364,0,1
+28:RNA metabolic process,1:oxidative phosphorylation,7,11,0.63636364,0,1
+43:cell adhesion,1:oxidative phosphorylation,7,11,0.63636364,0,1
+5:NONE,1:oxidative phosphorylation,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,1:oxidative phosphorylation,6,11,0.54545455,0,1
+7:antigen processing and presentation,1:oxidative phosphorylation,6,11,0.54545455,0,1
+8:cellular amino acid metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+13:synaptic transmission,1:oxidative phosphorylation,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+21:establishment of localization in cell,1:oxidative phosphorylation,6,11,0.54545455,0,1
+27:macromolecule metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+33:NONE,1:oxidative phosphorylation,6,11,0.54545455,1,0.01668314
+36:carboxylic acid metabolic process,1:oxidative phosphorylation,6,11,0.54545455,0,1
+37:immune response,1:oxidative phosphorylation,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,1:oxidative phosphorylation,6,11,0.54545455,0,1
+44:vesicle-mediated transport,1:oxidative phosphorylation,6,11,0.54545455,0,1
+45:NONE,1:oxidative phosphorylation,6,11,0.54545455,1,0.01668314
+14:cellular component organization,1:oxidative phosphorylation,5,11,0.45454545,0,1
+16:regulation of cell differentiation,1:oxidative phosphorylation,5,11,0.45454545,0,1
+18:response to external stimulus,1:oxidative phosphorylation,5,11,0.45454545,0,1
+20:cellular carbohydrate metabolic process,1:oxidative phosphorylation,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,1:oxidative phosphorylation,5,11,0.45454545,0,1
+47:cellular component organization,1:oxidative phosphorylation,5,11,0.45454545,0,1
+48:cell motion,1:oxidative phosphorylation,5,11,0.45454545,0,1
+29:cell fate commitment,1:oxidative phosphorylation,4,11,0.36363636,1,0.01115042
+31:regulation of developmental process,1:oxidative phosphorylation,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,1:oxidative phosphorylation,4,11,0.36363636,0,1
+3:RNA metabolic process,1:oxidative phosphorylation,3,11,0.27272727,1,0.00837347
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,1:oxidative phosphorylation,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,1:oxidative phosphorylation,3,11,0.27272727,0,1
+23:immune response,1:oxidative phosphorylation,2,11,0.18181818,1,0.00558942
+42:G-protein coupled receptor protein signaling pathway,1:oxidative phosphorylation,2,11,0.18181818,0,1
+25:immune system process,1:oxidative phosphorylation,1,11,0.09090909,0,1
+30:NONE,1:oxidative phosphorylation,1,11,0.09090909,0,1
+1:cell cycle,2:glycolysis,18,11,0.61111111,0,1
+4:translational elongation,2:glycolysis,16,11,0.6875,0,1
+22:extracellular matrix organization,2:glycolysis,10,11,0.90909091,0,1
+34:response to external stimulus,2:glycolysis,10,11,0.90909091,0,1
+46:collagen fibril organization,2:glycolysis,9,11,0.81818182,0,1
+2:RNA splicing,2:glycolysis,8,11,0.72727273,1,0.0221877
+11:NONE,2:glycolysis,8,11,0.72727273,0,1
+40:response to biotic stimulus,2:glycolysis,8,11,0.72727273,1,0.0221877
+10:NONE,2:glycolysis,7,11,0.63636364,0,1
+19:NONE,2:glycolysis,7,11,0.63636364,1,0.01943893
+24:immune response,2:glycolysis,7,11,0.63636364,0,1
+26:response to external stimulus,2:glycolysis,7,11,0.63636364,1,0.01943893
+28:RNA metabolic process,2:glycolysis,7,11,0.63636364,0,1
+43:cell adhesion,2:glycolysis,7,11,0.63636364,0,1
+5:NONE,2:glycolysis,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,2:glycolysis,6,11,0.54545455,0,1
+7:antigen processing and presentation,2:glycolysis,6,11,0.54545455,0,1
+8:cellular amino acid metabolic process,2:glycolysis,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,2:glycolysis,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,2:glycolysis,6,11,0.54545455,0,1
+13:synaptic transmission,2:glycolysis,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,2:glycolysis,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,2:glycolysis,6,11,0.54545455,0,1
+21:establishment of localization in cell,2:glycolysis,6,11,0.54545455,0,1
+27:macromolecule metabolic process,2:glycolysis,6,11,0.54545455,0,1
+33:NONE,2:glycolysis,6,11,0.54545455,1,0.01668314
+36:carboxylic acid metabolic process,2:glycolysis,6,11,0.54545455,0,1
+37:immune response,2:glycolysis,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,2:glycolysis,6,11,0.54545455,0,1
+44:vesicle-mediated transport,2:glycolysis,6,11,0.54545455,0,1
+45:NONE,2:glycolysis,6,11,0.54545455,1,0.01668314
+14:cellular component organization,2:glycolysis,5,11,0.45454545,0,1
+16:regulation of cell differentiation,2:glycolysis,5,11,0.45454545,0,1
+18:response to external stimulus,2:glycolysis,5,11,0.45454545,0,1
+20:cellular carbohydrate metabolic process,2:glycolysis,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,2:glycolysis,5,11,0.45454545,0,1
+47:cellular component organization,2:glycolysis,5,11,0.45454545,0,1
+48:cell motion,2:glycolysis,5,11,0.45454545,0,1
+29:cell fate commitment,2:glycolysis,4,11,0.36363636,1,0.01115042
+31:regulation of developmental process,2:glycolysis,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,2:glycolysis,4,11,0.36363636,0,1
+3:RNA metabolic process,2:glycolysis,3,11,0.27272727,1,0.00837347
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,2:glycolysis,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,2:glycolysis,3,11,0.27272727,0,1
+23:immune response,2:glycolysis,2,11,0.18181818,0,1
+42:G-protein coupled receptor protein signaling pathway,2:glycolysis,2,11,0.18181818,0,1
+25:immune system process,2:glycolysis,1,11,0.09090909,0,1
+30:NONE,2:glycolysis,1,11,0.09090909,0,1
+1:cell cycle,5:response to DNA damage stimulus,18,11,0.61111111,0,1
+4:translational elongation,5:response to DNA damage stimulus,16,11,0.6875,0,1
+22:extracellular matrix organization,5:response to DNA damage stimulus,10,11,0.90909091,0,1
+34:response to external stimulus,5:response to DNA damage stimulus,10,11,0.90909091,0,1
+46:collagen fibril organization,5:response to DNA damage stimulus,9,11,0.81818182,0,1
+2:RNA splicing,5:response to DNA damage stimulus,8,11,0.72727273,1,0.0221877
+11:NONE,5:response to DNA damage stimulus,8,11,0.72727273,0,1
+40:response to biotic stimulus,5:response to DNA damage stimulus,8,11,0.72727273,1,0.0221877
+10:NONE,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+19:NONE,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+24:immune response,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+26:response to external stimulus,5:response to DNA damage stimulus,7,11,0.63636364,1,0.01943893
+28:RNA metabolic process,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+43:cell adhesion,5:response to DNA damage stimulus,7,11,0.63636364,0,1
+5:NONE,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+7:antigen processing and presentation,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+8:cellular amino acid metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,1,0.01668314
+13:synaptic transmission,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+21:establishment of localization in cell,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+27:macromolecule metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+33:NONE,5:response to DNA damage stimulus,6,11,0.54545455,1,0.01668314
+36:carboxylic acid metabolic process,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+37:immune response,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+44:vesicle-mediated transport,5:response to DNA damage stimulus,6,11,0.54545455,0,1
+45:NONE,5:response to DNA damage stimulus,6,11,0.54545455,1,0.01668314
+14:cellular component organization,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+16:regulation of cell differentiation,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+18:response to external stimulus,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+20:cellular carbohydrate metabolic process,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+47:cellular component organization,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+48:cell motion,5:response to DNA damage stimulus,5,11,0.45454545,0,1
+29:cell fate commitment,5:response to DNA damage stimulus,4,11,0.36363636,1,0.01115042
+31:regulation of developmental process,5:response to DNA damage stimulus,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,5:response to DNA damage stimulus,4,11,0.36363636,0,1
+3:RNA metabolic process,5:response to DNA damage stimulus,3,11,0.27272727,1,0.00837347
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,5:response to DNA damage stimulus,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,5:response to DNA damage stimulus,3,11,0.27272727,0,1
+23:immune response,5:response to DNA damage stimulus,2,11,0.18181818,0,1
+42:G-protein coupled receptor protein signaling pathway,5:response to DNA damage stimulus,2,11,0.18181818,0,1
+25:immune system process,5:response to DNA damage stimulus,1,11,0.09090909,0,1
+30:NONE,5:response to DNA damage stimulus,1,11,0.09090909,0,1
+1:cell cycle,6:anti-apoptosis,18,11,0.61111111,0,1
+4:translational elongation,6:anti-apoptosis,16,11,0.6875,0,1
+22:extracellular matrix organization,6:anti-apoptosis,10,11,0.90909091,0,1
+34:response to external stimulus,6:anti-apoptosis,10,11,0.90909091,0,1
+46:collagen fibril organization,6:anti-apoptosis,9,11,0.81818182,0,1
+2:RNA splicing,6:anti-apoptosis,8,11,0.72727273,1,0.0221877
+11:NONE,6:anti-apoptosis,8,11,0.72727273,0,1
+40:response to biotic stimulus,6:anti-apoptosis,8,11,0.72727273,1,0.0221877
+10:NONE,6:anti-apoptosis,7,11,0.63636364,0,1
+19:NONE,6:anti-apoptosis,7,11,0.63636364,0,1
+24:immune response,6:anti-apoptosis,7,11,0.63636364,0,1
+26:response to external stimulus,6:anti-apoptosis,7,11,0.63636364,0,1
+28:RNA metabolic process,6:anti-apoptosis,7,11,0.63636364,0,1
+43:cell adhesion,6:anti-apoptosis,7,11,0.63636364,0,1
+5:NONE,6:anti-apoptosis,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,6:anti-apoptosis,6,11,0.54545455,0,1
+7:antigen processing and presentation,6:anti-apoptosis,6,11,0.54545455,1,0.01668314
+8:cellular amino acid metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+13:synaptic transmission,6:anti-apoptosis,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+21:establishment of localization in cell,6:anti-apoptosis,6,11,0.54545455,0,1
+27:macromolecule metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+33:NONE,6:anti-apoptosis,6,11,0.54545455,1,0.01668314
+36:carboxylic acid metabolic process,6:anti-apoptosis,6,11,0.54545455,0,1
+37:immune response,6:anti-apoptosis,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,6:anti-apoptosis,6,11,0.54545455,0,1
+44:vesicle-mediated transport,6:anti-apoptosis,6,11,0.54545455,0,1
+45:NONE,6:anti-apoptosis,6,11,0.54545455,1,0.01668314
+14:cellular component organization,6:anti-apoptosis,5,11,0.45454545,0,1
+16:regulation of cell differentiation,6:anti-apoptosis,5,11,0.45454545,0,1
+18:response to external stimulus,6:anti-apoptosis,5,11,0.45454545,1,0.01392031
+20:cellular carbohydrate metabolic process,6:anti-apoptosis,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,6:anti-apoptosis,5,11,0.45454545,0,1
+47:cellular component organization,6:anti-apoptosis,5,11,0.45454545,0,1
+48:cell motion,6:anti-apoptosis,5,11,0.45454545,0,1
+29:cell fate commitment,6:anti-apoptosis,4,11,0.36363636,1,0.01115042
+31:regulation of developmental process,6:anti-apoptosis,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,6:anti-apoptosis,4,11,0.36363636,0,1
+3:RNA metabolic process,6:anti-apoptosis,3,11,0.27272727,1,0.00837347
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,6:anti-apoptosis,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,6:anti-apoptosis,3,11,0.27272727,0,1
+23:immune response,6:anti-apoptosis,2,11,0.18181818,0,1
+42:G-protein coupled receptor protein signaling pathway,6:anti-apoptosis,2,11,0.18181818,0,1
+25:immune system process,6:anti-apoptosis,1,11,0.09090909,0,1
+30:NONE,6:anti-apoptosis,1,11,0.09090909,0,1
+1:cell cycle,9:nervous system development,18,11,0.61111111,0,1
+4:translational elongation,9:nervous system development,16,11,0.6875,0,1
+22:extracellular matrix organization,9:nervous system development,10,11,0.90909091,0,1
+34:response to external stimulus,9:nervous system development,10,11,0.90909091,0,1
+46:collagen fibril organization,9:nervous system development,9,11,0.81818182,0,1
+2:RNA splicing,9:nervous system development,8,11,0.72727273,1,0.0221877
+11:NONE,9:nervous system development,8,11,0.72727273,0,1
+40:response to biotic stimulus,9:nervous system development,8,11,0.72727273,1,0.0221877
+10:NONE,9:nervous system development,7,11,0.63636364,0,1
+19:NONE,9:nervous system development,7,11,0.63636364,0,1
+24:immune response,9:nervous system development,7,11,0.63636364,0,1
+26:response to external stimulus,9:nervous system development,7,11,0.63636364,0,1
+28:RNA metabolic process,9:nervous system development,7,11,0.63636364,0,1
+43:cell adhesion,9:nervous system development,7,11,0.63636364,0,1
+5:NONE,9:nervous system development,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,9:nervous system development,6,11,0.54545455,0,1
+7:antigen processing and presentation,9:nervous system development,6,11,0.54545455,0,1
+8:cellular amino acid metabolic process,9:nervous system development,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,9:nervous system development,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,9:nervous system development,6,11,0.54545455,0,1
+13:synaptic transmission,9:nervous system development,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,9:nervous system development,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,9:nervous system development,6,11,0.54545455,0,1
+21:establishment of localization in cell,9:nervous system development,6,11,0.54545455,0,1
+27:macromolecule metabolic process,9:nervous system development,6,11,0.54545455,0,1
+33:NONE,9:nervous system development,6,11,0.54545455,1,0.01668314
+36:carboxylic acid metabolic process,9:nervous system development,6,11,0.54545455,0,1
+37:immune response,9:nervous system development,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,9:nervous system development,6,11,0.54545455,0,1
+44:vesicle-mediated transport,9:nervous system development,6,11,0.54545455,0,1
+45:NONE,9:nervous system development,6,11,0.54545455,1,0.01668314
+14:cellular component organization,9:nervous system development,5,11,0.45454545,0,1
+16:regulation of cell differentiation,9:nervous system development,5,11,0.45454545,0,1
+18:response to external stimulus,9:nervous system development,5,11,0.45454545,0,1
+20:cellular carbohydrate metabolic process,9:nervous system development,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,9:nervous system development,5,11,0.45454545,0,1
+47:cellular component organization,9:nervous system development,5,11,0.45454545,0,1
+48:cell motion,9:nervous system development,5,11,0.45454545,0,1
+29:cell fate commitment,9:nervous system development,4,11,0.36363636,1,0.01115042
+31:regulation of developmental process,9:nervous system development,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,9:nervous system development,4,11,0.36363636,0,1
+3:RNA metabolic process,9:nervous system development,3,11,0.27272727,1,0.00837347
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,9:nervous system development,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,9:nervous system development,3,11,0.27272727,0,1
+23:immune response,9:nervous system development,2,11,0.18181818,1,0.00558942
+42:G-protein coupled receptor protein signaling pathway,9:nervous system development,2,11,0.18181818,0,1
+25:immune system process,9:nervous system development,1,11,0.09090909,0,1
+30:NONE,9:nervous system development,1,11,0.09090909,0,1
+1:cell cycle,15:nuclear division,18,11,0.61111111,8,0
+4:translational elongation,15:nuclear division,16,11,0.6875,0,1
+22:extracellular matrix organization,15:nuclear division,10,11,0.90909091,0,1
+34:response to external stimulus,15:nuclear division,10,11,0.90909091,0,1
+46:collagen fibril organization,15:nuclear division,9,11,0.81818182,0,1
+2:RNA splicing,15:nuclear division,8,11,0.72727273,0,1
+11:NONE,15:nuclear division,8,11,0.72727273,0,1
+40:response to biotic stimulus,15:nuclear division,8,11,0.72727273,0,1
+10:NONE,15:nuclear division,7,11,0.63636364,0,1
+19:NONE,15:nuclear division,7,11,0.63636364,0,1
+24:immune response,15:nuclear division,7,11,0.63636364,0,1
+26:response to external stimulus,15:nuclear division,7,11,0.63636364,0,1
+28:RNA metabolic process,15:nuclear division,7,11,0.63636364,0,1
+43:cell adhesion,15:nuclear division,7,11,0.63636364,0,1
+5:NONE,15:nuclear division,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,15:nuclear division,6,11,0.54545455,0,1
+7:antigen processing and presentation,15:nuclear division,6,11,0.54545455,0,1
+8:cellular amino acid metabolic process,15:nuclear division,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,15:nuclear division,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,15:nuclear division,6,11,0.54545455,0,1
+13:synaptic transmission,15:nuclear division,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,15:nuclear division,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,15:nuclear division,6,11,0.54545455,0,1
+21:establishment of localization in cell,15:nuclear division,6,11,0.54545455,0,1
+27:macromolecule metabolic process,15:nuclear division,6,11,0.54545455,0,1
+33:NONE,15:nuclear division,6,11,0.54545455,0,1
+36:carboxylic acid metabolic process,15:nuclear division,6,11,0.54545455,0,1
+37:immune response,15:nuclear division,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,15:nuclear division,6,11,0.54545455,0,1
+44:vesicle-mediated transport,15:nuclear division,6,11,0.54545455,0,1
+45:NONE,15:nuclear division,6,11,0.54545455,0,1
+14:cellular component organization,15:nuclear division,5,11,0.45454545,0,1
+16:regulation of cell differentiation,15:nuclear division,5,11,0.45454545,0,1
+18:response to external stimulus,15:nuclear division,5,11,0.45454545,1,0.01392031
+20:cellular carbohydrate metabolic process,15:nuclear division,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,15:nuclear division,5,11,0.45454545,0,1
+47:cellular component organization,15:nuclear division,5,11,0.45454545,0,1
+48:cell motion,15:nuclear division,5,11,0.45454545,0,1
+29:cell fate commitment,15:nuclear division,4,11,0.36363636,0,1
+31:regulation of developmental process,15:nuclear division,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,15:nuclear division,4,11,0.36363636,0,1
+3:RNA metabolic process,15:nuclear division,3,11,0.27272727,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,15:nuclear division,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,15:nuclear division,3,11,0.27272727,0,1
+23:immune response,15:nuclear division,2,11,0.18181818,0,1
+42:G-protein coupled receptor protein signaling pathway,15:nuclear division,2,11,0.18181818,0,1
+25:immune system process,15:nuclear division,1,11,0.09090909,0,1
+30:NONE,15:nuclear division,1,11,0.09090909,0,1
+1:cell cycle,20:transport,18,11,0.61111111,0,1
+4:translational elongation,20:transport,16,11,0.6875,0,1
+22:extracellular matrix organization,20:transport,10,11,0.90909091,0,1
+34:response to external stimulus,20:transport,10,11,0.90909091,1,0.02766424
+46:collagen fibril organization,20:transport,9,11,0.81818182,0,1
+2:RNA splicing,20:transport,8,11,0.72727273,0,1
+11:NONE,20:transport,8,11,0.72727273,0,1
+40:response to biotic stimulus,20:transport,8,11,0.72727273,0,1
+10:NONE,20:transport,7,11,0.63636364,0,1
+19:NONE,20:transport,7,11,0.63636364,0,1
+24:immune response,20:transport,7,11,0.63636364,1,0.01943893
+26:response to external stimulus,20:transport,7,11,0.63636364,0,1
+28:RNA metabolic process,20:transport,7,11,0.63636364,0,1
+43:cell adhesion,20:transport,7,11,0.63636364,0,1
+5:NONE,20:transport,6,11,0.54545455,0,1
+6:generation of precursor metabolites and energy,20:transport,6,11,0.54545455,0,1
+7:antigen processing and presentation,20:transport,6,11,0.54545455,0,1
+8:cellular amino acid metabolic process,20:transport,6,11,0.54545455,0,1
+9:cellular amino acid metabolic process,20:transport,6,11,0.54545455,0,1
+12:cellular amino acid metabolic process,20:transport,6,11,0.54545455,0,1
+13:synaptic transmission,20:transport,6,11,0.54545455,0,1
+15:cellular amino acid metabolic process,20:transport,6,11,0.54545455,0,1
+17:nitrogen compound metabolic process,20:transport,6,11,0.54545455,0,1
+21:establishment of localization in cell,20:transport,6,11,0.54545455,0,1
+27:macromolecule metabolic process,20:transport,6,11,0.54545455,0,1
+33:NONE,20:transport,6,11,0.54545455,0,1
+36:carboxylic acid metabolic process,20:transport,6,11,0.54545455,0,1
+37:immune response,20:transport,6,11,0.54545455,0,1
+39:anatomical structure morphogenesis,20:transport,6,11,0.54545455,0,1
+44:vesicle-mediated transport,20:transport,6,11,0.54545455,0,1
+45:NONE,20:transport,6,11,0.54545455,0,1
+14:cellular component organization,20:transport,5,11,0.45454545,0,1
+16:regulation of cell differentiation,20:transport,5,11,0.45454545,0,1
+18:response to external stimulus,20:transport,5,11,0.45454545,0,1
+20:cellular carbohydrate metabolic process,20:transport,5,11,0.45454545,0,1
+41:regulation of microtubule depolymerization,20:transport,5,11,0.45454545,0,1
+47:cellular component organization,20:transport,5,11,0.45454545,0,1
+48:cell motion,20:transport,5,11,0.45454545,0,1
+29:cell fate commitment,20:transport,4,11,0.36363636,0,1
+31:regulation of developmental process,20:transport,4,11,0.36363636,0,1
+32:regulation of multicellular organismal process,20:transport,4,11,0.36363636,0,1
+3:RNA metabolic process,20:transport,3,11,0.27272727,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,20:transport,3,11,0.27272727,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,20:transport,3,11,0.27272727,0,1
+23:immune response,20:transport,2,11,0.18181818,0,1
+42:G-protein coupled receptor protein signaling pathway,20:transport,2,11,0.18181818,0,1
+25:immune system process,20:transport,1,11,0.09090909,0,1
+30:NONE,20:transport,1,11,0.09090909,0,1
+1:cell cycle,16:translational elongation,18,9,0.5,0,1
+4:translational elongation,16:translational elongation,16,9,0.5625,0,1
+22:extracellular matrix organization,16:translational elongation,10,9,0.9,0,1
+34:response to external stimulus,16:translational elongation,10,9,0.9,0,1
+46:collagen fibril organization,16:translational elongation,9,9,1,0,1
+2:RNA splicing,16:translational elongation,8,9,0.88888889,0,1
+11:NONE,16:translational elongation,8,9,0.88888889,0,1
+40:response to biotic stimulus,16:translational elongation,8,9,0.88888889,0,1
+10:NONE,16:translational elongation,7,9,0.77777778,0,1
+19:NONE,16:translational elongation,7,9,0.77777778,0,1
+24:immune response,16:translational elongation,7,9,0.77777778,0,1
+26:response to external stimulus,16:translational elongation,7,9,0.77777778,0,1
+28:RNA metabolic process,16:translational elongation,7,9,0.77777778,1,0.01592888
+43:cell adhesion,16:translational elongation,7,9,0.77777778,0,1
+5:NONE,16:translational elongation,6,9,0.66666667,2,0.00006958
+6:generation of precursor metabolites and energy,16:translational elongation,6,9,0.66666667,0,1
+7:antigen processing and presentation,16:translational elongation,6,9,0.66666667,2,0.00006958
+8:cellular amino acid metabolic process,16:translational elongation,6,9,0.66666667,1,0.01366722
+9:cellular amino acid metabolic process,16:translational elongation,6,9,0.66666667,1,0.01366722
+12:cellular amino acid metabolic process,16:translational elongation,6,9,0.66666667,1,0.01366722
+13:synaptic transmission,16:translational elongation,6,9,0.66666667,0,1
+15:cellular amino acid metabolic process,16:translational elongation,6,9,0.66666667,1,0.01366722
+17:nitrogen compound metabolic process,16:translational elongation,6,9,0.66666667,0,1
+21:establishment of localization in cell,16:translational elongation,6,9,0.66666667,0,1
+27:macromolecule metabolic process,16:translational elongation,6,9,0.66666667,0,1
+33:NONE,16:translational elongation,6,9,0.66666667,0,1
+36:carboxylic acid metabolic process,16:translational elongation,6,9,0.66666667,1,0.01366722
+37:immune response,16:translational elongation,6,9,0.66666667,0,1
+39:anatomical structure morphogenesis,16:translational elongation,6,9,0.66666667,0,1
+44:vesicle-mediated transport,16:translational elongation,6,9,0.66666667,0,1
+45:NONE,16:translational elongation,6,9,0.66666667,0,1
+14:cellular component organization,16:translational elongation,5,9,0.55555556,1,0.01140095
+16:regulation of cell differentiation,16:translational elongation,5,9,0.55555556,0,1
+18:response to external stimulus,16:translational elongation,5,9,0.55555556,0,1
+20:cellular carbohydrate metabolic process,16:translational elongation,5,9,0.55555556,0,1
+41:regulation of microtubule depolymerization,16:translational elongation,5,9,0.55555556,1,0.01140095
+47:cellular component organization,16:translational elongation,5,9,0.55555556,2,0.00004644
+48:cell motion,16:translational elongation,5,9,0.55555556,1,0.01140095
+29:cell fate commitment,16:translational elongation,4,9,0.44444444,0,1
+31:regulation of developmental process,16:translational elongation,4,9,0.44444444,0,1
+32:regulation of multicellular organismal process,16:translational elongation,4,9,0.44444444,1,0.00913004
+3:RNA metabolic process,16:translational elongation,3,9,0.33333333,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,16:translational elongation,3,9,0.33333333,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,16:translational elongation,3,9,0.33333333,0,1
+23:immune response,16:translational elongation,2,9,0.22222222,0,1
+42:G-protein coupled receptor protein signaling pathway,16:translational elongation,2,9,0.22222222,0,1
+25:immune system process,16:translational elongation,1,9,0.11111111,0,1
+30:NONE,16:translational elongation,1,9,0.11111111,1,0.00228949
+1:cell cycle,4:protein folding,18,8,0.44444444,0,1
+4:translational elongation,4:protein folding,16,8,0.5,0,1
+22:extracellular matrix organization,4:protein folding,10,8,0.8,0,1
+34:response to external stimulus,4:protein folding,10,8,0.8,0,1
+46:collagen fibril organization,4:protein folding,9,8,0.88888889,0,1
+2:RNA splicing,4:protein folding,8,8,1,0,1
+11:NONE,4:protein folding,8,8,1,0,1
+40:response to biotic stimulus,4:protein folding,8,8,1,2,0.00010088
+10:NONE,4:protein folding,7,8,0.875,0,1
+19:NONE,4:protein folding,7,8,0.875,1,0.01416981
+24:immune response,4:protein folding,7,8,0.875,0,1
+26:response to external stimulus,4:protein folding,7,8,0.875,0,1
+28:RNA metabolic process,4:protein folding,7,8,0.875,0,1
+43:cell adhesion,4:protein folding,7,8,0.875,1,0.01416981
+5:NONE,4:protein folding,6,8,0.75,0,1
+6:generation of precursor metabolites and energy,4:protein folding,6,8,0.75,1,0.01215637
+7:antigen processing and presentation,4:protein folding,6,8,0.75,0,1
+8:cellular amino acid metabolic process,4:protein folding,6,8,0.75,0,1
+9:cellular amino acid metabolic process,4:protein folding,6,8,0.75,0,1
+12:cellular amino acid metabolic process,4:protein folding,6,8,0.75,0,1
+13:synaptic transmission,4:protein folding,6,8,0.75,0,1
+15:cellular amino acid metabolic process,4:protein folding,6,8,0.75,0,1
+17:nitrogen compound metabolic process,4:protein folding,6,8,0.75,0,1
+21:establishment of localization in cell,4:protein folding,6,8,0.75,0,1
+27:macromolecule metabolic process,4:protein folding,6,8,0.75,1,0.01215637
+33:NONE,4:protein folding,6,8,0.75,0,1
+36:carboxylic acid metabolic process,4:protein folding,6,8,0.75,0,1
+37:immune response,4:protein folding,6,8,0.75,0,1
+39:anatomical structure morphogenesis,4:protein folding,6,8,0.75,0,1
+44:vesicle-mediated transport,4:protein folding,6,8,0.75,1,0.01215637
+45:NONE,4:protein folding,6,8,0.75,0,1
+14:cellular component organization,4:protein folding,5,8,0.625,0,1
+16:regulation of cell differentiation,4:protein folding,5,8,0.625,1,0.01013933
+18:response to external stimulus,4:protein folding,5,8,0.625,0,1
+20:cellular carbohydrate metabolic process,4:protein folding,5,8,0.625,1,0.01013933
+41:regulation of microtubule depolymerization,4:protein folding,5,8,0.625,0,1
+47:cellular component organization,4:protein folding,5,8,0.625,0,1
+48:cell motion,4:protein folding,5,8,0.625,0,1
+29:cell fate commitment,4:protein folding,4,8,0.5,0,1
+31:regulation of developmental process,4:protein folding,4,8,0.5,0,1
+32:regulation of multicellular organismal process,4:protein folding,4,8,0.5,0,1
+3:RNA metabolic process,4:protein folding,3,8,0.375,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,4:protein folding,3,8,0.375,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,4:protein folding,3,8,0.375,0,1
+23:immune response,4:protein folding,2,8,0.25,0,1
+42:G-protein coupled receptor protein signaling pathway,4:protein folding,2,8,0.25,0,1
+25:immune system process,4:protein folding,1,8,0.125,0,1
+30:NONE,4:protein folding,1,8,0.125,0,1
+1:cell cycle,17:anatomical structure development,18,7,0.38888889,0,1
+4:translational elongation,17:anatomical structure development,16,7,0.4375,0,1
+22:extracellular matrix organization,17:anatomical structure development,10,7,0.7,0,1
+34:response to external stimulus,17:anatomical structure development,10,7,0.7,0,1
+46:collagen fibril organization,17:anatomical structure development,9,7,0.77777778,0,1
+2:RNA splicing,17:anatomical structure development,8,7,0.875,0,1
+11:NONE,17:anatomical structure development,8,7,0.875,0,1
+40:response to biotic stimulus,17:anatomical structure development,8,7,0.875,1,0.01416981
+10:NONE,17:anatomical structure development,7,7,1,0,1
+19:NONE,17:anatomical structure development,7,7,1,1,0.01240805
+24:immune response,17:anatomical structure development,7,7,1,0,1
+26:response to external stimulus,17:anatomical structure development,7,7,1,0,1
+28:RNA metabolic process,17:anatomical structure development,7,7,1,1,0.01240805
+43:cell adhesion,17:anatomical structure development,7,7,1,0,1
+5:NONE,17:anatomical structure development,6,7,0.85714286,0,1
+6:generation of precursor metabolites and energy,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+7:antigen processing and presentation,17:anatomical structure development,6,7,0.85714286,0,1
+8:cellular amino acid metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+9:cellular amino acid metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+12:cellular amino acid metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+13:synaptic transmission,17:anatomical structure development,6,7,0.85714286,0,1
+15:cellular amino acid metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+17:nitrogen compound metabolic process,17:anatomical structure development,6,7,0.85714286,0,1
+21:establishment of localization in cell,17:anatomical structure development,6,7,0.85714286,0,1
+27:macromolecule metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+33:NONE,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+36:carboxylic acid metabolic process,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+37:immune response,17:anatomical structure development,6,7,0.85714286,0,1
+39:anatomical structure morphogenesis,17:anatomical structure development,6,7,0.85714286,0,1
+44:vesicle-mediated transport,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+45:NONE,17:anatomical structure development,6,7,0.85714286,1,0.01064359
+14:cellular component organization,17:anatomical structure development,5,7,0.71428571,1,0.00887643
+16:regulation of cell differentiation,17:anatomical structure development,5,7,0.71428571,1,0.00887643
+18:response to external stimulus,17:anatomical structure development,5,7,0.71428571,0,1
+20:cellular carbohydrate metabolic process,17:anatomical structure development,5,7,0.71428571,1,0.00887643
+41:regulation of microtubule depolymerization,17:anatomical structure development,5,7,0.71428571,0,1
+47:cellular component organization,17:anatomical structure development,5,7,0.71428571,0,1
+48:cell motion,17:anatomical structure development,5,7,0.71428571,1,0.00887643
+29:cell fate commitment,17:anatomical structure development,4,7,0.57142857,0,1
+31:regulation of developmental process,17:anatomical structure development,4,7,0.57142857,1,0.00710657
+32:regulation of multicellular organismal process,17:anatomical structure development,4,7,0.57142857,1,0.00710657
+3:RNA metabolic process,17:anatomical structure development,3,7,0.42857143,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,17:anatomical structure development,3,7,0.42857143,1,0.005334
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,17:anatomical structure development,3,7,0.42857143,0,1
+23:immune response,17:anatomical structure development,2,7,0.28571429,0,1
+42:G-protein coupled receptor protein signaling pathway,17:anatomical structure development,2,7,0.28571429,1,0.00355872
+25:immune system process,17:anatomical structure development,1,7,0.14285714,0,1
+30:NONE,17:anatomical structure development,1,7,0.14285714,0,1
+1:cell cycle,18:antigen processing and presentation of peptide antigen,18,7,0.38888889,0,1
+4:translational elongation,18:antigen processing and presentation of peptide antigen,16,7,0.4375,0,1
+22:extracellular matrix organization,18:antigen processing and presentation of peptide antigen,10,7,0.7,0,1
+34:response to external stimulus,18:antigen processing and presentation of peptide antigen,10,7,0.7,0,1
+46:collagen fibril organization,18:antigen processing and presentation of peptide antigen,9,7,0.77777778,0,1
+2:RNA splicing,18:antigen processing and presentation of peptide antigen,8,7,0.875,0,1
+11:NONE,18:antigen processing and presentation of peptide antigen,8,7,0.875,0,1
+40:response to biotic stimulus,18:antigen processing and presentation of peptide antigen,8,7,0.875,0,1
+10:NONE,18:antigen processing and presentation of peptide antigen,7,7,1,0,1
+19:NONE,18:antigen processing and presentation of peptide antigen,7,7,1,0,1
+24:immune response,18:antigen processing and presentation of peptide antigen,7,7,1,0,1
+26:response to external stimulus,18:antigen processing and presentation of peptide antigen,7,7,1,0,1
+28:RNA metabolic process,18:antigen processing and presentation of peptide antigen,7,7,1,2,0.00005685
+43:cell adhesion,18:antigen processing and presentation of peptide antigen,7,7,1,0,1
+5:NONE,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,1,0.01064359
+6:generation of precursor metabolites and energy,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+7:antigen processing and presentation,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,4,0
+8:cellular amino acid metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,2,0.00004064
+9:cellular amino acid metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,2,0.00004064
+12:cellular amino acid metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,2,0.00004064
+13:synaptic transmission,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+15:cellular amino acid metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,2,0.00004064
+17:nitrogen compound metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+21:establishment of localization in cell,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+27:macromolecule metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+33:NONE,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,1,0.01064359
+36:carboxylic acid metabolic process,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,2,0.00004064
+37:immune response,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+39:anatomical structure morphogenesis,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+44:vesicle-mediated transport,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,0,1
+45:NONE,18:antigen processing and presentation of peptide antigen,6,7,0.85714286,1,0.01064359
+14:cellular component organization,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,2,0.00002712
+16:regulation of cell differentiation,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,0,1
+18:response to external stimulus,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,0,1
+20:cellular carbohydrate metabolic process,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,0,1
+41:regulation of microtubule depolymerization,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,1,0.00887643
+47:cellular component organization,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,1,0.00887643
+48:cell motion,18:antigen processing and presentation of peptide antigen,5,7,0.71428571,2,0.00002712
+29:cell fate commitment,18:antigen processing and presentation of peptide antigen,4,7,0.57142857,0,1
+31:regulation of developmental process,18:antigen processing and presentation of peptide antigen,4,7,0.57142857,1,0.00710657
+32:regulation of multicellular organismal process,18:antigen processing and presentation of peptide antigen,4,7,0.57142857,2,0.00001628
+3:RNA metabolic process,18:antigen processing and presentation of peptide antigen,3,7,0.42857143,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,18:antigen processing and presentation of peptide antigen,3,7,0.42857143,2,0.00000815
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,18:antigen processing and presentation of peptide antigen,3,7,0.42857143,1,0.005334
+23:immune response,18:antigen processing and presentation of peptide antigen,2,7,0.28571429,0,1
+42:G-protein coupled receptor protein signaling pathway,18:antigen processing and presentation of peptide antigen,2,7,0.28571429,1,0.00355872
+25:immune system process,18:antigen processing and presentation of peptide antigen,1,7,0.14285714,0,1
+30:NONE,18:antigen processing and presentation of peptide antigen,1,7,0.14285714,1,0.00178072
+1:cell cycle,21:response to inorganic substance,18,7,0.38888889,0,1
+4:translational elongation,21:response to inorganic substance,16,7,0.4375,0,1
+22:extracellular matrix organization,21:response to inorganic substance,10,7,0.7,0,1
+34:response to external stimulus,21:response to inorganic substance,10,7,0.7,0,1
+46:collagen fibril organization,21:response to inorganic substance,9,7,0.77777778,0,1
+2:RNA splicing,21:response to inorganic substance,8,7,0.875,0,1
+11:NONE,21:response to inorganic substance,8,7,0.875,1,0.01416981
+40:response to biotic stimulus,21:response to inorganic substance,8,7,0.875,0,1
+10:NONE,21:response to inorganic substance,7,7,1,0,1
+19:NONE,21:response to inorganic substance,7,7,1,0,1
+24:immune response,21:response to inorganic substance,7,7,1,0,1
+26:response to external stimulus,21:response to inorganic substance,7,7,1,0,1
+28:RNA metabolic process,21:response to inorganic substance,7,7,1,0,1
+43:cell adhesion,21:response to inorganic substance,7,7,1,0,1
+5:NONE,21:response to inorganic substance,6,7,0.85714286,0,1
+6:generation of precursor metabolites and energy,21:response to inorganic substance,6,7,0.85714286,0,1
+7:antigen processing and presentation,21:response to inorganic substance,6,7,0.85714286,0,1
+8:cellular amino acid metabolic process,21:response to inorganic substance,6,7,0.85714286,0,1
+9:cellular amino acid metabolic process,21:response to inorganic substance,6,7,0.85714286,0,1
+12:cellular amino acid metabolic process,21:response to inorganic substance,6,7,0.85714286,0,1
+13:synaptic transmission,21:response to inorganic substance,6,7,0.85714286,1,0.01064359
+15:cellular amino acid metabolic process,21:response to inorganic substance,6,7,0.85714286,0,1
+17:nitrogen compound metabolic process,21:response to inorganic substance,6,7,0.85714286,1,0.01064359
+21:establishment of localization in cell,21:response to inorganic substance,6,7,0.85714286,0,1
+27:macromolecule metabolic process,21:response to inorganic substance,6,7,0.85714286,0,1
+33:NONE,21:response to inorganic substance,6,7,0.85714286,0,1
+36:carboxylic acid metabolic process,21:response to inorganic substance,6,7,0.85714286,0,1
+37:immune response,21:response to inorganic substance,6,7,0.85714286,0,1
+39:anatomical structure morphogenesis,21:response to inorganic substance,6,7,0.85714286,0,1
+44:vesicle-mediated transport,21:response to inorganic substance,6,7,0.85714286,0,1
+45:NONE,21:response to inorganic substance,6,7,0.85714286,0,1
+14:cellular component organization,21:response to inorganic substance,5,7,0.71428571,0,1
+16:regulation of cell differentiation,21:response to inorganic substance,5,7,0.71428571,0,1
+18:response to external stimulus,21:response to inorganic substance,5,7,0.71428571,0,1
+20:cellular carbohydrate metabolic process,21:response to inorganic substance,5,7,0.71428571,0,1
+41:regulation of microtubule depolymerization,21:response to inorganic substance,5,7,0.71428571,0,1
+47:cellular component organization,21:response to inorganic substance,5,7,0.71428571,0,1
+48:cell motion,21:response to inorganic substance,5,7,0.71428571,0,1
+29:cell fate commitment,21:response to inorganic substance,4,7,0.57142857,0,1
+31:regulation of developmental process,21:response to inorganic substance,4,7,0.57142857,0,1
+32:regulation of multicellular organismal process,21:response to inorganic substance,4,7,0.57142857,0,1
+3:RNA metabolic process,21:response to inorganic substance,3,7,0.42857143,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,21:response to inorganic substance,3,7,0.42857143,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,21:response to inorganic substance,3,7,0.42857143,0,1
+23:immune response,21:response to inorganic substance,2,7,0.28571429,0,1
+42:G-protein coupled receptor protein signaling pathway,21:response to inorganic substance,2,7,0.28571429,0,1
+25:immune system process,21:response to inorganic substance,1,7,0.14285714,1,0.00178072
+30:NONE,21:response to inorganic substance,1,7,0.14285714,0,1
+1:cell cycle,8:response to organic substance,18,6,0.33333333,0,1
+4:translational elongation,8:response to organic substance,16,6,0.375,0,1
+22:extracellular matrix organization,8:response to organic substance,10,6,0.6,0,1
+34:response to external stimulus,8:response to organic substance,10,6,0.6,0,1
+46:collagen fibril organization,8:response to organic substance,9,6,0.66666667,0,1
+2:RNA splicing,8:response to organic substance,8,6,0.75,0,1
+11:NONE,8:response to organic substance,8,6,0.75,1,0.01215637
+40:response to biotic stimulus,8:response to organic substance,8,6,0.75,0,1
+10:NONE,8:response to organic substance,7,6,0.85714286,0,1
+19:NONE,8:response to organic substance,7,6,0.85714286,0,1
+24:immune response,8:response to organic substance,7,6,0.85714286,0,1
+26:response to external stimulus,8:response to organic substance,7,6,0.85714286,0,1
+28:RNA metabolic process,8:response to organic substance,7,6,0.85714286,0,1
+43:cell adhesion,8:response to organic substance,7,6,0.85714286,0,1
+5:NONE,8:response to organic substance,6,6,1,0,1
+6:generation of precursor metabolites and energy,8:response to organic substance,6,6,1,0,1
+7:antigen processing and presentation,8:response to organic substance,6,6,1,0,1
+8:cellular amino acid metabolic process,8:response to organic substance,6,6,1,0,1
+9:cellular amino acid metabolic process,8:response to organic substance,6,6,1,0,1
+12:cellular amino acid metabolic process,8:response to organic substance,6,6,1,0,1
+13:synaptic transmission,8:response to organic substance,6,6,1,1,0.00912889
+15:cellular amino acid metabolic process,8:response to organic substance,6,6,1,0,1
+17:nitrogen compound metabolic process,8:response to organic substance,6,6,1,1,0.00912889
+21:establishment of localization in cell,8:response to organic substance,6,6,1,0,1
+27:macromolecule metabolic process,8:response to organic substance,6,6,1,0,1
+33:NONE,8:response to organic substance,6,6,1,0,1
+36:carboxylic acid metabolic process,8:response to organic substance,6,6,1,0,1
+37:immune response,8:response to organic substance,6,6,1,0,1
+39:anatomical structure morphogenesis,8:response to organic substance,6,6,1,0,1
+44:vesicle-mediated transport,8:response to organic substance,6,6,1,0,1
+45:NONE,8:response to organic substance,6,6,1,0,1
+14:cellular component organization,8:response to organic substance,5,6,0.83333333,0,1
+16:regulation of cell differentiation,8:response to organic substance,5,6,0.83333333,0,1
+18:response to external stimulus,8:response to organic substance,5,6,0.83333333,0,1
+20:cellular carbohydrate metabolic process,8:response to organic substance,5,6,0.83333333,0,1
+41:regulation of microtubule depolymerization,8:response to organic substance,5,6,0.83333333,0,1
+47:cellular component organization,8:response to organic substance,5,6,0.83333333,0,1
+48:cell motion,8:response to organic substance,5,6,0.83333333,0,1
+29:cell fate commitment,8:response to organic substance,4,6,0.66666667,0,1
+31:regulation of developmental process,8:response to organic substance,4,6,0.66666667,0,1
+32:regulation of multicellular organismal process,8:response to organic substance,4,6,0.66666667,0,1
+3:RNA metabolic process,8:response to organic substance,3,6,0.5,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,8:response to organic substance,3,6,0.5,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,8:response to organic substance,3,6,0.5,0,1
+23:immune response,8:response to organic substance,2,6,0.33333333,0,1
+42:G-protein coupled receptor protein signaling pathway,8:response to organic substance,2,6,0.33333333,0,1
+25:immune system process,8:response to organic substance,1,6,0.16666667,1,0.00152633
+30:NONE,8:response to organic substance,1,6,0.16666667,0,1
+1:cell cycle,13:cellular component biogenesis,18,6,0.33333333,0,1
+4:translational elongation,13:cellular component biogenesis,16,6,0.375,0,1
+22:extracellular matrix organization,13:cellular component biogenesis,10,6,0.6,0,1
+34:response to external stimulus,13:cellular component biogenesis,10,6,0.6,0,1
+46:collagen fibril organization,13:cellular component biogenesis,9,6,0.66666667,0,1
+2:RNA splicing,13:cellular component biogenesis,8,6,0.75,0,1
+11:NONE,13:cellular component biogenesis,8,6,0.75,0,1
+40:response to biotic stimulus,13:cellular component biogenesis,8,6,0.75,0,1
+10:NONE,13:cellular component biogenesis,7,6,0.85714286,0,1
+19:NONE,13:cellular component biogenesis,7,6,0.85714286,0,1
+24:immune response,13:cellular component biogenesis,7,6,0.85714286,0,1
+26:response to external stimulus,13:cellular component biogenesis,7,6,0.85714286,0,1
+28:RNA metabolic process,13:cellular component biogenesis,7,6,0.85714286,0,1
+43:cell adhesion,13:cellular component biogenesis,7,6,0.85714286,0,1
+5:NONE,13:cellular component biogenesis,6,6,1,0,1
+6:generation of precursor metabolites and energy,13:cellular component biogenesis,6,6,1,0,1
+7:antigen processing and presentation,13:cellular component biogenesis,6,6,1,0,1
+8:cellular amino acid metabolic process,13:cellular component biogenesis,6,6,1,0,1
+9:cellular amino acid metabolic process,13:cellular component biogenesis,6,6,1,0,1
+12:cellular amino acid metabolic process,13:cellular component biogenesis,6,6,1,0,1
+13:synaptic transmission,13:cellular component biogenesis,6,6,1,0,1
+15:cellular amino acid metabolic process,13:cellular component biogenesis,6,6,1,0,1
+17:nitrogen compound metabolic process,13:cellular component biogenesis,6,6,1,0,1
+21:establishment of localization in cell,13:cellular component biogenesis,6,6,1,0,1
+27:macromolecule metabolic process,13:cellular component biogenesis,6,6,1,0,1
+33:NONE,13:cellular component biogenesis,6,6,1,0,1
+36:carboxylic acid metabolic process,13:cellular component biogenesis,6,6,1,0,1
+37:immune response,13:cellular component biogenesis,6,6,1,0,1
+39:anatomical structure morphogenesis,13:cellular component biogenesis,6,6,1,0,1
+44:vesicle-mediated transport,13:cellular component biogenesis,6,6,1,0,1
+45:NONE,13:cellular component biogenesis,6,6,1,0,1
+14:cellular component organization,13:cellular component biogenesis,5,6,0.83333333,0,1
+16:regulation of cell differentiation,13:cellular component biogenesis,5,6,0.83333333,0,1
+18:response to external stimulus,13:cellular component biogenesis,5,6,0.83333333,1,0.00761225
+20:cellular carbohydrate metabolic process,13:cellular component biogenesis,5,6,0.83333333,0,1
+41:regulation of microtubule depolymerization,13:cellular component biogenesis,5,6,0.83333333,0,1
+47:cellular component organization,13:cellular component biogenesis,5,6,0.83333333,0,1
+48:cell motion,13:cellular component biogenesis,5,6,0.83333333,0,1
+29:cell fate commitment,13:cellular component biogenesis,4,6,0.66666667,0,1
+31:regulation of developmental process,13:cellular component biogenesis,4,6,0.66666667,0,1
+32:regulation of multicellular organismal process,13:cellular component biogenesis,4,6,0.66666667,0,1
+3:RNA metabolic process,13:cellular component biogenesis,3,6,0.5,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,13:cellular component biogenesis,3,6,0.5,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,13:cellular component biogenesis,3,6,0.5,0,1
+23:immune response,13:cellular component biogenesis,2,6,0.33333333,0,1
+42:G-protein coupled receptor protein signaling pathway,13:cellular component biogenesis,2,6,0.33333333,0,1
+25:immune system process,13:cellular component biogenesis,1,6,0.16666667,0,1
+30:NONE,13:cellular component biogenesis,1,6,0.16666667,0,1
+1:cell cycle,12:NONE,18,4,0.22222222,0,1
+4:translational elongation,12:NONE,16,4,0.25,0,1
+22:extracellular matrix organization,12:NONE,10,4,0.4,0,1
+34:response to external stimulus,12:NONE,10,4,0.4,1,0.01014062
+46:collagen fibril organization,12:NONE,9,4,0.44444444,0,1
+2:RNA splicing,12:NONE,8,4,0.5,0,1
+11:NONE,12:NONE,8,4,0.5,0,1
+40:response to biotic stimulus,12:NONE,8,4,0.5,0,1
+10:NONE,12:NONE,7,4,0.57142857,0,1
+19:NONE,12:NONE,7,4,0.57142857,0,1
+24:immune response,12:NONE,7,4,0.57142857,1,0.00710657
+26:response to external stimulus,12:NONE,7,4,0.57142857,0,1
+28:RNA metabolic process,12:NONE,7,4,0.57142857,0,1
+43:cell adhesion,12:NONE,7,4,0.57142857,0,1
+5:NONE,12:NONE,6,4,0.66666667,0,1
+6:generation of precursor metabolites and energy,12:NONE,6,4,0.66666667,0,1
+7:antigen processing and presentation,12:NONE,6,4,0.66666667,0,1
+8:cellular amino acid metabolic process,12:NONE,6,4,0.66666667,0,1
+9:cellular amino acid metabolic process,12:NONE,6,4,0.66666667,0,1
+12:cellular amino acid metabolic process,12:NONE,6,4,0.66666667,0,1
+13:synaptic transmission,12:NONE,6,4,0.66666667,0,1
+15:cellular amino acid metabolic process,12:NONE,6,4,0.66666667,0,1
+17:nitrogen compound metabolic process,12:NONE,6,4,0.66666667,0,1
+21:establishment of localization in cell,12:NONE,6,4,0.66666667,0,1
+27:macromolecule metabolic process,12:NONE,6,4,0.66666667,0,1
+33:NONE,12:NONE,6,4,0.66666667,0,1
+36:carboxylic acid metabolic process,12:NONE,6,4,0.66666667,0,1
+37:immune response,12:NONE,6,4,0.66666667,0,1
+39:anatomical structure morphogenesis,12:NONE,6,4,0.66666667,0,1
+44:vesicle-mediated transport,12:NONE,6,4,0.66666667,0,1
+45:NONE,12:NONE,6,4,0.66666667,0,1
+14:cellular component organization,12:NONE,5,4,0.8,0,1
+16:regulation of cell differentiation,12:NONE,5,4,0.8,0,1
+18:response to external stimulus,12:NONE,5,4,0.8,0,1
+20:cellular carbohydrate metabolic process,12:NONE,5,4,0.8,0,1
+41:regulation of microtubule depolymerization,12:NONE,5,4,0.8,0,1
+47:cellular component organization,12:NONE,5,4,0.8,0,1
+48:cell motion,12:NONE,5,4,0.8,0,1
+29:cell fate commitment,12:NONE,4,4,1,0,1
+31:regulation of developmental process,12:NONE,4,4,1,0,1
+32:regulation of multicellular organismal process,12:NONE,4,4,1,0,1
+3:RNA metabolic process,12:NONE,3,4,0.75,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,12:NONE,3,4,0.75,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,12:NONE,3,4,0.75,0,1
+23:immune response,12:NONE,2,4,0.5,0,1
+42:G-protein coupled receptor protein signaling pathway,12:NONE,2,4,0.5,0,1
+25:immune system process,12:NONE,1,4,0.25,0,1
+30:NONE,12:NONE,1,4,0.25,0,1
+1:cell cycle,14:cellular amino acid metabolic process,18,4,0.22222222,0,1
+4:translational elongation,14:cellular amino acid metabolic process,16,4,0.25,0,1
+22:extracellular matrix organization,14:cellular amino acid metabolic process,10,4,0.4,0,1
+34:response to external stimulus,14:cellular amino acid metabolic process,10,4,0.4,0,1
+46:collagen fibril organization,14:cellular amino acid metabolic process,9,4,0.44444444,0,1
+2:RNA splicing,14:cellular amino acid metabolic process,8,4,0.5,0,1
+11:NONE,14:cellular amino acid metabolic process,8,4,0.5,0,1
+40:response to biotic stimulus,14:cellular amino acid metabolic process,8,4,0.5,0,1
+10:NONE,14:cellular amino acid metabolic process,7,4,0.57142857,0,1
+19:NONE,14:cellular amino acid metabolic process,7,4,0.57142857,0,1
+24:immune response,14:cellular amino acid metabolic process,7,4,0.57142857,0,1
+26:response to external stimulus,14:cellular amino acid metabolic process,7,4,0.57142857,0,1
+28:RNA metabolic process,14:cellular amino acid metabolic process,7,4,0.57142857,2,0.00001628
+43:cell adhesion,14:cellular amino acid metabolic process,7,4,0.57142857,0,1
+5:NONE,14:cellular amino acid metabolic process,6,4,0.66666667,1,0.00609367
+6:generation of precursor metabolites and energy,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+7:antigen processing and presentation,14:cellular amino acid metabolic process,6,4,0.66666667,1,0.00609367
+8:cellular amino acid metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,2,0.00001164
+9:cellular amino acid metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,2,0.00001164
+12:cellular amino acid metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,2,0.00001164
+13:synaptic transmission,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+15:cellular amino acid metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,2,0.00001164
+17:nitrogen compound metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+21:establishment of localization in cell,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+27:macromolecule metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+33:NONE,14:cellular amino acid metabolic process,6,4,0.66666667,1,0.00609367
+36:carboxylic acid metabolic process,14:cellular amino acid metabolic process,6,4,0.66666667,2,0.00001164
+37:immune response,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+39:anatomical structure morphogenesis,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+44:vesicle-mediated transport,14:cellular amino acid metabolic process,6,4,0.66666667,0,1
+45:NONE,14:cellular amino acid metabolic process,6,4,0.66666667,1,0.00609367
+14:cellular component organization,14:cellular amino acid metabolic process,5,4,0.8,2,0.00000776
+16:regulation of cell differentiation,14:cellular amino acid metabolic process,5,4,0.8,0,1
+18:response to external stimulus,14:cellular amino acid metabolic process,5,4,0.8,0,1
+20:cellular carbohydrate metabolic process,14:cellular amino acid metabolic process,5,4,0.8,0,1
+41:regulation of microtubule depolymerization,14:cellular amino acid metabolic process,5,4,0.8,1,0.00508
+47:cellular component organization,14:cellular amino acid metabolic process,5,4,0.8,1,0.00508
+48:cell motion,14:cellular amino acid metabolic process,5,4,0.8,2,0.00000776
+29:cell fate commitment,14:cellular amino acid metabolic process,4,4,1,0,1
+31:regulation of developmental process,14:cellular amino acid metabolic process,4,4,1,1,0.00406555
+32:regulation of multicellular organismal process,14:cellular amino acid metabolic process,4,4,1,2,0.00000466
+3:RNA metabolic process,14:cellular amino acid metabolic process,3,4,0.75,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,14:cellular amino acid metabolic process,3,4,0.75,1,0.00305033
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,14:cellular amino acid metabolic process,3,4,0.75,0,1
+23:immune response,14:cellular amino acid metabolic process,2,4,0.5,0,1
+42:G-protein coupled receptor protein signaling pathway,14:cellular amino acid metabolic process,2,4,0.5,1,0.00203433
+25:immune system process,14:cellular amino acid metabolic process,1,4,0.25,0,1
+30:NONE,14:cellular amino acid metabolic process,1,4,0.25,1,0.00101755
+1:cell cycle,19:DNA replication,18,4,0.22222222,1,0.01819743
+4:translational elongation,19:DNA replication,16,4,0.25,0,1
+22:extracellular matrix organization,19:DNA replication,10,4,0.4,0,1
+34:response to external stimulus,19:DNA replication,10,4,0.4,0,1
+46:collagen fibril organization,19:DNA replication,9,4,0.44444444,0,1
+2:RNA splicing,19:DNA replication,8,4,0.5,0,1
+11:NONE,19:DNA replication,8,4,0.5,0,1
+40:response to biotic stimulus,19:DNA replication,8,4,0.5,0,1
+10:NONE,19:DNA replication,7,4,0.57142857,0,1
+19:NONE,19:DNA replication,7,4,0.57142857,0,1
+24:immune response,19:DNA replication,7,4,0.57142857,0,1
+26:response to external stimulus,19:DNA replication,7,4,0.57142857,0,1
+28:RNA metabolic process,19:DNA replication,7,4,0.57142857,0,1
+43:cell adhesion,19:DNA replication,7,4,0.57142857,0,1
+5:NONE,19:DNA replication,6,4,0.66666667,0,1
+6:generation of precursor metabolites and energy,19:DNA replication,6,4,0.66666667,0,1
+7:antigen processing and presentation,19:DNA replication,6,4,0.66666667,0,1
+8:cellular amino acid metabolic process,19:DNA replication,6,4,0.66666667,0,1
+9:cellular amino acid metabolic process,19:DNA replication,6,4,0.66666667,0,1
+12:cellular amino acid metabolic process,19:DNA replication,6,4,0.66666667,0,1
+13:synaptic transmission,19:DNA replication,6,4,0.66666667,0,1
+15:cellular amino acid metabolic process,19:DNA replication,6,4,0.66666667,0,1
+17:nitrogen compound metabolic process,19:DNA replication,6,4,0.66666667,0,1
+21:establishment of localization in cell,19:DNA replication,6,4,0.66666667,0,1
+27:macromolecule metabolic process,19:DNA replication,6,4,0.66666667,0,1
+33:NONE,19:DNA replication,6,4,0.66666667,0,1
+36:carboxylic acid metabolic process,19:DNA replication,6,4,0.66666667,0,1
+37:immune response,19:DNA replication,6,4,0.66666667,0,1
+39:anatomical structure morphogenesis,19:DNA replication,6,4,0.66666667,0,1
+44:vesicle-mediated transport,19:DNA replication,6,4,0.66666667,0,1
+45:NONE,19:DNA replication,6,4,0.66666667,0,1
+14:cellular component organization,19:DNA replication,5,4,0.8,0,1
+16:regulation of cell differentiation,19:DNA replication,5,4,0.8,0,1
+18:response to external stimulus,19:DNA replication,5,4,0.8,0,1
+20:cellular carbohydrate metabolic process,19:DNA replication,5,4,0.8,0,1
+41:regulation of microtubule depolymerization,19:DNA replication,5,4,0.8,0,1
+47:cellular component organization,19:DNA replication,5,4,0.8,0,1
+48:cell motion,19:DNA replication,5,4,0.8,0,1
+29:cell fate commitment,19:DNA replication,4,4,1,0,1
+31:regulation of developmental process,19:DNA replication,4,4,1,0,1
+32:regulation of multicellular organismal process,19:DNA replication,4,4,1,0,1
+3:RNA metabolic process,19:DNA replication,3,4,0.75,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,19:DNA replication,3,4,0.75,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,19:DNA replication,3,4,0.75,0,1
+23:immune response,19:DNA replication,2,4,0.5,0,1
+42:G-protein coupled receptor protein signaling pathway,19:DNA replication,2,4,0.5,0,1
+25:immune system process,19:DNA replication,1,4,0.25,0,1
+30:NONE,19:DNA replication,1,4,0.25,0,1
+1:cell cycle,11:regulation of Ras protein signal transduction,18,3,0.16666667,0,1
+4:translational elongation,11:regulation of Ras protein signal transduction,16,3,0.1875,0,1
+22:extracellular matrix organization,11:regulation of Ras protein signal transduction,10,3,0.3,0,1
+34:response to external stimulus,11:regulation of Ras protein signal transduction,10,3,0.3,0,1
+46:collagen fibril organization,11:regulation of Ras protein signal transduction,9,3,0.33333333,0,1
+2:RNA splicing,11:regulation of Ras protein signal transduction,8,3,0.375,0,1
+11:NONE,11:regulation of Ras protein signal transduction,8,3,0.375,1,0.00609445
+40:response to biotic stimulus,11:regulation of Ras protein signal transduction,8,3,0.375,0,1
+10:NONE,11:regulation of Ras protein signal transduction,7,3,0.42857143,0,1
+19:NONE,11:regulation of Ras protein signal transduction,7,3,0.42857143,0,1
+24:immune response,11:regulation of Ras protein signal transduction,7,3,0.42857143,0,1
+26:response to external stimulus,11:regulation of Ras protein signal transduction,7,3,0.42857143,0,1
+28:RNA metabolic process,11:regulation of Ras protein signal transduction,7,3,0.42857143,0,1
+43:cell adhesion,11:regulation of Ras protein signal transduction,7,3,0.42857143,0,1
+5:NONE,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+6:generation of precursor metabolites and energy,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+7:antigen processing and presentation,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+8:cellular amino acid metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+9:cellular amino acid metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+12:cellular amino acid metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+13:synaptic transmission,11:regulation of Ras protein signal transduction,6,3,0.5,1,0.00457316
+15:cellular amino acid metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+17:nitrogen compound metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,1,0.00457316
+21:establishment of localization in cell,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+27:macromolecule metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+33:NONE,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+36:carboxylic acid metabolic process,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+37:immune response,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+39:anatomical structure morphogenesis,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+44:vesicle-mediated transport,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+45:NONE,11:regulation of Ras protein signal transduction,6,3,0.5,0,1
+14:cellular component organization,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+16:regulation of cell differentiation,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+18:response to external stimulus,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+20:cellular carbohydrate metabolic process,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+41:regulation of microtubule depolymerization,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+47:cellular component organization,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+48:cell motion,11:regulation of Ras protein signal transduction,5,3,0.6,0,1
+29:cell fate commitment,11:regulation of Ras protein signal transduction,4,3,0.75,0,1
+31:regulation of developmental process,11:regulation of Ras protein signal transduction,4,3,0.75,0,1
+32:regulation of multicellular organismal process,11:regulation of Ras protein signal transduction,4,3,0.75,0,1
+3:RNA metabolic process,11:regulation of Ras protein signal transduction,3,3,1,0,1
+35:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,11:regulation of Ras protein signal transduction,3,3,1,0,1
+38:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,11:regulation of Ras protein signal transduction,3,3,1,0,1
+23:immune response,11:regulation of Ras protein signal transduction,2,3,0.66666667,0,1
+42:G-protein coupled receptor protein signaling pathway,11:regulation of Ras protein signal transduction,2,3,0.66666667,0,1
+25:immune system process,11:regulation of Ras protein signal transduction,1,3,0.33333333,1,0.00076316
+30:NONE,11:regulation of Ras protein signal transduction,1,3,0.33333333,0,1

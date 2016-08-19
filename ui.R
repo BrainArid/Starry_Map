@@ -17,7 +17,7 @@ inputTab<-tabItem(tabName="inputTabView",
                   fluidRow(box(width=2,checkboxInput("useExample", label = "Use Example?", value = TRUE)),
                   box(width=2,checkboxInput("fileU_IsAll","Use same U for all S files?",TRUE), uiOutput("fileUAllInput")),
                   box(width=2,radioButtons("fileS_Col_All","S files organized by:",choices = c("Columns"="1","Rows"="2","Different per file"="3")))),
-                  fluidRow(box(width=6,numericInput("NumberModSets",label="Number of Module Sets",value=2,step = 1))),
+                  fluidRow(box(width=6,numericInput("NumberModSets",label="Number of Module Sets",value=2,min = 1,step = 1))),
                   fluidRow(box(width=6,uiOutput("ModuleSetInputTabs"),background = "navy"))
 );
 

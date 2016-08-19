@@ -92,13 +92,13 @@ server <- function(input, output, session){
     {checkboxInput("fileS_IsColAll", label = h5(paste0("Columned?")),value = TRUE);}
   })
   
-  
+  #construct dynamic HTML for file input tabs
   output$ModuleSetInputTabs <- renderUI({
     
     #if(!(is.null(input$inputTabs)) && input$inputTabs == "+")
     # NumberModSets <<- NumberModSets + 1;
     
-    Tabs <- lapply(1:NumberModSets, 
+    Tabs <- lapply(1:input$NumberModSets, 
                    function(x){
                      uElement<-NULL;
                      colElement<-NULL;
@@ -119,65 +119,111 @@ server <- function(input, output, session){
     #if(!is.null(input$inputTabs) && input$inputTabs == "+")
     #  updateTabsetPanel(session,inputId = "inputTabs",selected = paste0("Module Set",NumberModSets));
     
-    Tabs[[NumberModSets+1]] <- tabPanel(title = "+", value="+");
+    #Tabs[[NumberModSets+1]] <- tabPanel(title = "+", value="+");
     do.call(what=tabsetPanel, c(Tabs,id="inputTabs"));
   });
   
-#   Is <- reactive({
-#     l<-as.list(1:NumberModSets);
-#     names(l)<-lapply(l,as.character);
-#     return(l);
-#   })
-  for(I in 1:NumberModSets)
-  {
-    local({
-      i<-I;
-      filesS[[as.character(i)]]<-reactive({
-        if(input$useExample)
-        {
-          if(i=="1"){return("Test Sets/GSE48865StarryMap.txt")}
-          else{return("Test Sets/GSE57872StarryMap.txt")}
-        }
-        else
-        {
-          return(input[[paste0("fileS",i)]]$datapath);
-        }
-      })
-      
-      filesU[[as.character(i)]]<-reactive({
-        if(input$useExample)
-        {
-          if(i=="1"){return("Test Sets/GSE48865_geneOrder.txt")}
-          else{return("Test Sets/geneOrder.txt")}
-        }
-        else if(input$fileU_IsAll)
-        {
-          return(input[["fileUAll"]]$datapath);
-        }
-        else
-        {
-          return(input[[paste0("fileU",i)]]$datapath);
-        }
-      })
-      
-      fileS_IsCol[[as.character(i)]]<-reactive({
-        if(input$useExample)
-        {
-          if(i=="1"){return(TRUE)}
-          else{return(TRUE)}
-        }
-        else if(!(input$fileS_Col_All=="3"))
-        {
-          if(input$fileS_Col_All=="1"){return(TRUE);}
-          else(return(FALSE));
-        }
-        else
-        {
-          return(input[[paste0("fileS",i,"_IsCol")]]);
-        }
-      })
-    })
-  }
+  filesS <- reactive({
+    lapply(1:input$NumberModSets, function(i){
+      if(input$useExample)
+      {
+        if(i==1){return("Test Sets/GSE48865StarryMap.txt")}
+        else{return("Test Sets/GSE57872StarryMap.txt")}
+      }
+      else
+      {
+        return(input[[paste0("fileS",i)]]$datapath);
+      }
+    })})
+  filesU <- reactive({
+    lapply(1:input$NumberModSets, function(i){
+      if(input$useExample)
+      {
+        if(i==1){return("Test Sets/GSE48865_geneOrder.txt")}
+        else{return("Test Sets/geneOrder.txt")}
+      }
+      else if(input$fileU_IsAll)
+      {
+        return(input[["fileUAll"]]$datapath);
+      }
+      else
+      {
+        return(input[[paste0("fileU",i)]]$datapath);
+      }
+    })})
+  fileS_IsCol <- reactive({
+    lapply(1:input$NumberModSets, function(i){
+      if(input$useExample)
+      {
+        if(i=="1"){return(TRUE)}
+        else{return(TRUE)}
+      }
+      else if(!(input$fileS_Col_All=="3"))
+      {
+        if(input$fileS_Col_All=="1"){return(TRUE);}
+        else(return(FALSE));
+      }
+      else
+      {
+        return(input[[paste0("fileS",i,"_IsCol")]]);
+      }
+    })})
+  
+# #   Is <- reactive({
+# #     l<-as.list(1:NumberModSets);
+# #     names(l)<-lapply(l,as.character);
+# #     return(l);
+# #   })
+#   for(I in 1:NumberModSets)
+#   {
+#     local({
+#       i<-I;
+#       filesS[[as.character(i)]]<-reactive({
+#         if(input$useExample)
+#         {
+#           if(i=="1"){return("Test Sets/GSE48865StarryMap.txt")}
+#           else{return("Test Sets/GSE57872StarryMap.txt")}
+#         }
+#         else
+#         {
+#           return(input[[paste0("fileS",i)]]$datapath);
+#         }
+#       })
+#       
+#       filesU[[as.character(i)]]<-reactive({
+#         if(input$useExample)
+#         {
+#           if(i=="1"){return("Test Sets/GSE48865_geneOrder.txt")}
+#           else{return("Test Sets/geneOrder.txt")}
+#         }
+#         else if(input$fileU_IsAll)
+#         {
+#           return(input[["fileUAll"]]$datapath);
+#         }
+#         else
+#         {
+#           return(input[[paste0("fileU",i)]]$datapath);
+#         }
+#       })
+#       
+#       fileS_IsCol[[as.character(i)]]<-reactive({
+#         if(input$useExample)
+#         {
+#           if(i=="1"){return(TRUE)}
+#           else{return(TRUE)}
+#         }
+#         else if(!(input$fileS_Col_All=="3"))
+#         {
+#           if(input$fileS_Col_All=="1"){return(TRUE);}
+#           else(return(FALSE));
+#         }
+#         else
+#         {
+#           return(input[[paste0("fileS",i,"_IsCol")]]);
+#         }
+#       })
+#     })
+#   }
    Is<-as.list(1:NumberModSets);
    names(Is)<-lapply(Is,as.character)
 #   filesS <- lapply(Is, function(I){
@@ -203,34 +249,57 @@ server <- function(input, output, session){
   #filesS[["2"]] <- reactive({"Test Sets/GSE57872StarryMap.txt"});
   #fileS_IsCol[["1"]] <- reactive({TRUE});
   #fileS_IsCol[["2"]] <- reactive({TRUE});
+   
+  geneUniverses <- reactive({lapply(1:input$NumberModSets, function(x){
+    g<-read.table(file=filesU()[[x]],skip=0,header=FALSE);
+    return(apply(g,1,as.character));
+  })})
   
   #Is <- 1:NumberModSets
-  geneUniverses <- lapply(Is, function(I){
-    i<-as.character(I);
-    return(reactive({
-      g<-read.table(file=filesU[[i]](),skip=0,header=FALSE);
-      return(apply(g,1,as.character));
-    }))
-  })
+#   geneUniverses <- lapply(Is, function(I){
+#     i<-as.character(I);
+#     return(reactive({
+#       g<-read.table(file=filesU[[i]](),skip=0,header=FALSE);
+#       return(apply(g,1,as.character));
+#     }))
+#   })
   
   #Is <- 1:NumberModSets;
-  starryMaps <- lapply(Is, function(I){
-    Js <- I:NumberModSets;
+  starryMaps <- reactive({lapply(1:input$NumberModSets, function(I){
+    Js <- I:input$NumberModSets;
     return(lapply(Js,function(J){
       i<-force(as.character(I));
       j<-force(as.character(J));
-      gU1<-geneUniverses[[I]];
-      gU2<-geneUniverses[[J]];
+      gU1<-geneUniverses()[[I]];
+      gU2<-geneUniverses()[[J]];
       #k<-J+(I-1)*NumberModSets-(I*(I-1)/2);
-      return(reactive({starryMap(filesS[[i]](),fileS_IsCol[[i]](), 
-                                 args$clusts1Names, filesS[[j]](), fileS_IsCol[[j]](), 
-                                 args$clusts1Names, args$outDir, args$threshold, args$clustHeatMap, 
-                                 args$fisherExact, args$permutationTest, args$histogram, 
-                                 geneUniverse1=gU1(),
-                                 geneUniverse2=gU2());#need to add sorts 
-      }))
-    }))
+      return(starryMap(filesS()[[I]],fileS_IsCol()[[I]], 
+                       args$clusts1Names, filesS()[[J]], fileS_IsCol()[[J]], 
+                       args$clusts1Names, args$outDir, args$threshold, args$clustHeatMap, 
+                       args$fisherExact, args$permutationTest, args$histogram, 
+                       geneUniverse1=gU1,
+                       geneUniverse2=gU2)#need to add sorts 
+      )}))
+    })
   })
+  
+#   starryMaps <- lapply(Is, function(I){
+#     Js <- I:NumberModSets;
+#     return(lapply(Js,function(J){
+#       i<-force(as.character(I));
+#       j<-force(as.character(J));
+#       gU1<-geneUniverses[[I]];
+#       gU2<-geneUniverses[[J]];
+#       #k<-J+(I-1)*NumberModSets-(I*(I-1)/2);
+#       return(reactive({starryMap(filesS[[i]](),fileS_IsCol[[i]](), 
+#                                  args$clusts1Names, filesS[[j]](), fileS_IsCol[[j]](), 
+#                                  args$clusts1Names, args$outDir, args$threshold, args$clustHeatMap, 
+#                                  args$fisherExact, args$permutationTest, args$histogram, 
+#                                  geneUniverse1=gU1(),
+#                                  geneUniverse2=gU2());#need to add sorts 
+#       }))
+#     }))
+#   })
   
   output$MI <-renderText({
     return("Mutual Information: Here");
@@ -238,7 +307,7 @@ server <- function(input, output, session){
   
   pStarry<-NULL;
   output$plot <-renderPlot({
-    N <- NumberModSets;
+    N <- input$NumberModSets;
     
     ps<-matrix(data = list(), nrow = N, ncol = N);
     starryTheme<-theme(axis.text=element_blank(),axis.text.x=element_text(angle=-90,hjust=0,vjust=0.5), axis.title=element_blank());
@@ -254,16 +323,16 @@ server <- function(input, output, session){
           next;
         
         k<-i+(j-1)*N-(j*(j-1)/2);
-        colMat<-starryMaps[[i]][[j]]()$colMat;
+        colMat<-starryMaps()[[i]][[j]]$colMat;
         
         #reorder
-        l1<-sapply(starryMaps[[i]][[1]]()$order1,function(x){which(starryMaps[[i]][[j]]()$order1==x)});
-        l2<-sapply(starryMaps[[j-1 + i-1 %% N + 1]][[1]]()$order1,function(x){which(starryMaps[[i]][[j]]()$order2==x)});
+        l1<-sapply(starryMaps()[[i]][[1]]$order1,function(x){which(starryMaps()[[i]][[j]]$order1==x)});
+        l2<-sapply(starryMaps()[[j-1 + i-1 %% N + 1]][[1]]$order1,function(x){which(starryMaps()[[i]][[j]]$order2==x)});
         colMat$X1<-factor(colMat$X1,levels=levels(colMat$X1)[l1])
         colMat$X2<-factor(colMat$X2,levels=levels(colMat$X2)[l2]);
         
         p<-ggplot(colMat, aes(y=X2, x=X1)) +
-          geom_tile(aes(y=X2,x=X1,fill=hsv(r,b,g),width=maxSize,height=maxSize), colour = "black") +
+          geom_tile(aes(y=X2,x=X1,fill=hsv(0.5,g,r),width=maxSize,height=maxSize), colour = "black") +
           scale_fill_identity() +
           scale_x_discrete(labels=function(x){return(strtrim(x, 15))}) +
           scale_y_discrete(labels=function(x){return(strtrim(x, 15))}) +
@@ -292,19 +361,18 @@ server <- function(input, output, session){
   });  
   
   starryMI<-reactive({
-    N <- NumberModSets;
+    N <- input$NumberModSets;
     m<-matrix(0,nrow = N,ncol=N);
     for(j in 1:N)
       for(i in 1:N)
       {
         if((N-i+1)<(j))#y=-1x+NumberModSets
           next;
-        m[N - i + 1, N-(j-1 + i-1 %% N + 1)+1]<-starryMaps[[i]][[j]]()$starryMI
+        m[N - i + 1, N-(j-1 + i-1 %% N + 1)+1]<-starryMaps()[[i]][[j]]$starryMI
       }
     return(m);
   });
   
-  pMI<-NULL;
   output$MIPlot <- renderPlot({
  
     starryMI.m<-melt(starryMI());
@@ -319,17 +387,20 @@ server <- function(input, output, session){
   });
   
   output$stabPlot <-renderPlot({
-    N <- NumberModSets;
+    N <- input$NumberModSets
     
-    stabVec<-vector(length=N-1);
-    for(i in 1:(N-1))
+    if(N>2)
     {
-      stabVec[i]<-starryMI()[i+1,i];
+      stabVec<-vector(length=N-1);
+      for(i in 1:(N-1))
+      {
+        stabVec[i]<-starryMI()[i+1,i];
+      }
+      stabVec.m<-data.frame(X=1:(N-1),MI=stabVec);
+      p<-ggplot(stabVec.m, aes(x=X,y=MI)) + geom_line() +
+        theme(axis.text=element_blank(), axis.title=element_blank());
+      print(p);
     }
-    stabVec.m<-data.frame(X=1:(N-1),MI=stabVec);
-    p<-ggplot(stabVec.m, aes(x=X,y=MI)) + geom_line() +
-      theme(axis.text=element_blank(), axis.title=element_blank());
-    print(p);
   })
 
   output$constellation<-renderPlot({
@@ -338,6 +409,10 @@ server <- function(input, output, session){
     g<-graph.adjacency(s,mode="undirected",weighted=TRUE);
     p<-plot.igraph(g,layout=layout.fruchterman.reingold(g, weights=E(g)$weight));
     print(p);
+  })
+  
+  output$relativeSizePlot <- renderPlot({
+    
   })
   
   #to download output 

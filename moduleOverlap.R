@@ -312,6 +312,24 @@ starryMap <- function(clustsFile1, clusts1Columned=FALSE, clusts1Names=FALSE,
                           clusts2=commonModules$clusts2[gSortedOrder]);
     output$commonModules<-commonModules;
   }
+  
+  #temp code for Tara
+  #browser();
+  #options(scipen=999)
+  #df <- melt(data = output$intCounts);
+  #names(df)<- c("A Module Label","B Module Label", "Overlap");
+  #df[,"A Module Size"] <- melt(matrix(data = output$lengths1,nrow = dim(output$intCounts)[1],ncol = dim(output$intCounts)[2]))[,3];
+  #df[,"B Module Size"] <- melt(matrix(data = output$lengths2,nrow = dim(output$intCounts)[1],ncol = dim(output$intCounts)[2],byrow = TRUE))[,3];
+  #df[,"FE pValue"] <- melt(round(feMat,8))[,3];
+  #df[,"Size Ratio"] <- apply(df,1,function(i)
+  #  {
+  #    return(round(min(as.numeric(i["A Module Size"]),
+  #               as.numeric(i["B Module Size"])) / 
+  #             max(
+  #               as.numeric(i["A Module Size"]),
+  #               as.numeric(i["B Module Size"])),8));
+  #  })
+  #write.csv(df[,c(1,2,4,5,7,3,6)],file = paste0(basename(clustsFile1),"_VS_",basename(clustsFile2),".csv"),quote=FALSE,row.names = FALSE);
   return(output);
 }
 
@@ -342,4 +360,10 @@ starryMapList <- function(clustsFiles, clustsColumned, clustsNames,
                                 histogram, geneUniverses[i], geneUniverses[j], sort[i], sort[j])
     }
   }
+}
+
+#prints starryMap results in text form
+print.StarryMap <- function(starryMap)
+{
+  
 }
